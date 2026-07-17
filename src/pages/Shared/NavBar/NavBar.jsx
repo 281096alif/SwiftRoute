@@ -1,6 +1,13 @@
 import React from 'react';
+import { NavLink } from 'react-router';
 
 const NavBar = () => {
+
+    const button = <>
+        <li><NavLink to="/item1">Item 1</NavLink></li>
+        <li><NavLink to="/item2">Item 2</NavLink></li>
+        <li><NavLink to="/item3">Item 3</NavLink></li>
+    </>
     return (
         <div className="max-lg:collapse bg-base-200 lg:mb-48 shadow-sm w-full rounded-md">
             <input id="navbar-1-toggle" className="peer hidden" type="checkbox" />
@@ -14,17 +21,7 @@ const NavBar = () => {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
-                        <li><button>Item 1</button></li>
-                        <li>
-                            <details>
-                                <summary>Parent</summary>
-                                <ul className="p-2 bg-base-100 w-40 z-1">
-                                    <li><button>Submenu 1</button></li>
-                                    <li><button>Submenu 2</button></li>
-                                </ul>
-                            </details>
-                        </li>
-                        <li><button>Item 3</button></li>
+                        {button}
                     </ul>
                 </div>
                 <div className="navbar-end">
@@ -34,15 +31,7 @@ const NavBar = () => {
 
             <div className="collapse-content lg:hidden z-1">
                 <ul className="menu">
-                    <li><button>Item 1</button></li>
-                    <li>
-                        <button>Parent</button>
-                        <ul>
-                            <li><button>Submenu 1</button></li>
-                            <li><button>Submenu 2</button></li>
-                        </ul>
-                    </li>
-                    <li><button>Item 3</button></li>
+                    {button}
                 </ul>
             </div>
         </div>

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Johnson",
+    "reviewComment": "SwiftRoute has significantly improved our delivery operations. Fast, reliable, and always on time.",
+    "designation": "Operations Manager"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Lee",
+    "reviewComment": "Excellent service with accurate tracking and responsive customer support. Highly recommended.",
+    "designation": "eCommerce Store Owner"
+  },
+  {
+    "id": 3,
+    "name": "David Brown",
+    "reviewComment": "Our business deliveries have become much more efficient since partnering with SwiftRoute.",
+    "designation": "Supply Chain Manager"
+  },
+  {
+    "id": 4,
+    "name": "Emily Carter",
+    "reviewComment": "The same-day delivery service exceeded our expectations. Professional and dependable.",
+    "designation": "Retail Business Owner"
+  },
+  {
+    "id": 5,
+    "name": "James Wilson",
+    "reviewComment": "Real-time tracking gives us complete visibility over every shipment. Great platform.",
+    "designation": "Logistics Coordinator"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Martinez",
+    "reviewComment": "SwiftRoute has made shipping easier for our online store with timely deliveries and great support.",
+    "designation": "Online Business Owner"
+  }
+]
