@@ -6,7 +6,7 @@ const NavBar = () => {
     const button = <>
         <li><NavLink to="/item1">Item 1</NavLink></li>
         <li><NavLink to="/item2">Item 2</NavLink></li>
-        <li><NavLink to="/item3">Item 3</NavLink></li>
+        <li><NavLink to="/Coverage">Coverage</NavLink></li>
     </>
     return (
         <div className="max-lg:collapse bg-base-200 lg:mb-48 shadow-sm w-full rounded-md">

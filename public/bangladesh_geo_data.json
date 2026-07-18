@@ -1,0 +1,4026 @@
+{
+  "country": "Bangladesh",
+  "meta": {
+    "description": "Administrative hierarchy of Bangladesh (Division > District/Zilla > Upazila/Upozilla) with coordinates",
+    "division_count": 8,
+    "district_count": 64,
+    "upazila_count": 573,
+    "source": "https://github.com/mdtanjilhasan/bd-geocode-with-lat-long (a few missing upazila coordinates supplemented from Wikipedia)"
+  },
+  "divisions": [
+    {
+      "name": "Barishal",
+      "bn_name": "বরিশাল",
+      "latitude": 22.701002,
+      "longitude": 90.353451,
+      "districts": [
+        {
+          "name": "Barguna",
+          "bn_name": "বরগুনা",
+          "latitude": 22.095291,
+          "longitude": 90.11207,
+          "upazilas": [
+            {
+              "name": "Amtali",
+              "bn_name": "আমতলী",
+              "latitude": 22.133909,
+              "longitude": 90.236193
+            },
+            {
+              "name": "Bamna",
+              "bn_name": "বামনা",
+              "latitude": 22.274155,
+              "longitude": 90.065334
+            },
+            {
+              "name": "Barguna Sadar",
+              "bn_name": "বরগুনা সদর",
+              "latitude": 22.119149,
+              "longitude": 90.093369
+            },
+            {
+              "name": "Betagi",
+              "bn_name": "বেতাগি",
+              "latitude": 22.414161,
+              "longitude": 90.165886
+            },
+            {
+              "name": "Patharghata",
+              "bn_name": "পাথরঘাটা",
+              "latitude": 22.071474,
+              "longitude": 89.944006
+            },
+            {
+              "name": "Taltali",
+              "bn_name": "তালতলী",
+              "latitude": 22.023739,
+              "longitude": 90.13078
+            }
+          ]
+        },
+        {
+          "name": "Barishal",
+          "bn_name": "বরিশাল",
+          "latitude": 22.701002,
+          "longitude": 90.353451,
+          "upazilas": [
+            {
+              "name": "Agailjhara",
+              "bn_name": "আগাইলঝরা",
+              "latitude": 22.971329,
+              "longitude": 90.163544
+            },
+            {
+              "name": "Airport",
+              "bn_name": "বিমান বন্দর",
+              "latitude": 22.798734,
+              "longitude": 90.299839
+            },
+            {
+              "name": "Babuganj",
+              "bn_name": "বাবুগঞ্জ",
+              "latitude": 22.834068,
+              "longitude": 90.318379
+            },
+            {
+              "name": "Bakerganj",
+              "bn_name": "বাকেরগঞ্জ",
+              "latitude": 22.54787,
+              "longitude": 90.393672
+            },
+            {
+              "name": "Banaripara",
+              "bn_name": "বানাড়িপারা",
+              "latitude": 22.822422,
+              "longitude": 90.121423
+            },
+            {
+              "name": "Barisal Sadar",
+              "bn_name": "বরিশাল সদর",
+              "latitude": 22.738469,
+              "longitude": 90.431373
+            },
+            {
+              "name": "Bondor",
+              "bn_name": "বন্দর থানা",
+              "latitude": 22.70221,
+              "longitude": 90.369632
+            },
+            {
+              "name": "Gaurnadi",
+              "bn_name": "গৌরনদী",
+              "latitude": 22.941426,
+              "longitude": 90.252616
+            },
+            {
+              "name": "Hizla",
+              "bn_name": "হিজলা",
+              "latitude": 22.97644,
+              "longitude": 90.544691
+            },
+            {
+              "name": "Kawnia",
+              "bn_name": "কাউনিয়া থানা",
+              "latitude": 22.717793,
+              "longitude": 90.358361
+            },
+            {
+              "name": "Mehendiganj",
+              "bn_name": "মেহেদিগঞ্জ",
+              "latitude": 22.82607,
+              "longitude": 90.526964
+            },
+            {
+              "name": "Muladi",
+              "bn_name": "মুলাদি",
+              "latitude": 22.887534,
+              "longitude": 90.388962
+            },
+            {
+              "name": "Wazirpur",
+              "bn_name": "ওয়াজিরপুর",
+              "latitude": 22.882022,
+              "longitude": 90.093369
+            }
+          ]
+        },
+        {
+          "name": "Bhola",
+          "bn_name": "ভোলা",
+          "latitude": 22.685923,
+          "longitude": 90.648179,
+          "upazilas": [
+            {
+              "name": "Bhola Sadar",
+              "bn_name": "ভোলা সদর",
+              "latitude": 22.690181,
+              "longitude": 90.620416
+            },
+            {
+              "name": "Burhanuddin",
+              "bn_name": "বুরহানউদ্দিন",
+              "latitude": 22.475251,
+              "longitude": 90.715275
+            },
+            {
+              "name": "Char Fasson",
+              "bn_name": "চর ফ্যাশন",
+              "latitude": 22.199535,
+              "longitude": 90.72596
+            },
+            {
+              "name": "Daulatkhan",
+              "bn_name": "দৌলতখান",
+              "latitude": 22.605109,
+              "longitude": 90.741366
+            },
+            {
+              "name": "Lalmohan",
+              "bn_name": "লালমোহন",
+              "latitude": 22.308106,
+              "longitude": 90.772297
+            },
+            {
+              "name": "Manpura",
+              "bn_name": "মনপুরা",
+              "latitude": 22.199859,
+              "longitude": 90.953398
+            },
+            {
+              "name": "Tazumuddin",
+              "bn_name": "তাজুমুদ্দিন",
+              "latitude": 22.417979,
+              "longitude": 90.850835
+            }
+          ]
+        },
+        {
+          "name": "Jhalokati",
+          "bn_name": "ঝালকাঠি",
+          "latitude": 22.178531,
+          "longitude": 90.710102,
+          "upazilas": [
+            {
+              "name": "Jhalokati Sadar",
+              "bn_name": "ঝালকাঠি সদর",
+              "latitude": 22.691245,
+              "longitude": 90.205711
+            },
+            {
+              "name": "Kathalia",
+              "bn_name": "কাঁঠালিয়া",
+              "latitude": 22.405278,
+              "longitude": 90.093369
+            },
+            {
+              "name": "Nalchity",
+              "bn_name": "নালচিতি",
+              "latitude": 22.595783,
+              "longitude": 90.280787
+            },
+            {
+              "name": "Rajapur",
+              "bn_name": "রাজাপুর",
+              "latitude": 22.548296,
+              "longitude": 90.13078
+            }
+          ]
+        },
+        {
+          "name": "Patuakhali",
+          "bn_name": "পটুয়াখালী",
+          "latitude": 22.359632,
+          "longitude": 90.329871,
+          "upazilas": [
+            {
+              "name": "Bauphal",
+              "bn_name": "বাউফল",
+              "latitude": 22.419253,
+              "longitude": 90.556514
+            },
+            {
+              "name": "Dashmina",
+              "bn_name": "দশমিনা",
+              "latitude": 22.27914,
+              "longitude": 90.56834
+            },
+            {
+              "name": "Dumki",
+              "bn_name": "ডুমকি",
+              "latitude": 22.464453,
+              "longitude": 90.384253
+            },
+            {
+              "name": "Galachipa",
+              "bn_name": "গলাচিপা",
+              "latitude": 22.163373,
+              "longitude": 90.410162
+            },
+            {
+              "name": "Kalapara",
+              "bn_name": "কালাপারা",
+              "latitude": 21.904449,
+              "longitude": 90.186964
+            },
+            {
+              "name": "Mirzaganj",
+              "bn_name": "মির্জাগঞ্জ",
+              "latitude": 22.362453,
+              "longitude": 90.210882
+            },
+            {
+              "name": "Patuakhali Sadar",
+              "bn_name": "পটুয়াখালী সদর",
+              "latitude": 22.357231,
+              "longitude": 90.356008
+            },
+            {
+              "name": "Rangabali",
+              "bn_name": "রাঙ্গাবালি",
+              "latitude": 21.90404,
+              "longitude": 90.412518
+            }
+          ]
+        },
+        {
+          "name": "Pirojpur",
+          "bn_name": "পিরোজপুর",
+          "latitude": 22.579074,
+          "longitude": 89.975926,
+          "upazilas": [
+            {
+              "name": "Bhandaria",
+              "bn_name": "ভ্যান্ডারিয়া",
+              "latitude": 22.441067,
+              "longitude": 90.009327
+            },
+            {
+              "name": "Kaukhali",
+              "bn_name": "কাউখালি",
+              "latitude": 22.625809,
+              "longitude": 90.070005
+            },
+            {
+              "name": "Mathbaria",
+              "bn_name": "মাঠবাড়িয়া",
+              "latitude": 22.292046,
+              "longitude": 89.958012
+            },
+            {
+              "name": "Nazirpur",
+              "bn_name": "নাজিরপুর",
+              "latitude": 22.786716,
+              "longitude": 89.981344
+            },
+            {
+              "name": "Nesarabad",
+              "bn_name": "নেসারাবাদ",
+              "latitude": 22.744964,
+              "longitude": 90.116746
+            },
+            {
+              "name": "Pirojpur Sadar",
+              "bn_name": "পিরোজপুর সদর",
+              "latitude": 22.596026,
+              "longitude": 89.981344
+            },
+            {
+              "name": "Zianagar",
+              "bn_name": "জিয়ানগর",
+              "latitude": 22.485764,
+              "longitude": 89.960346
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "latitude": 22.356851,
+      "longitude": 91.783182,
+      "districts": [
+        {
+          "name": "Bandarban",
+          "bn_name": "বান্দরবান",
+          "latitude": 22.195328,
+          "longitude": 92.218377,
+          "upazilas": [
+            {
+              "name": "Ali kadam",
+              "bn_name": "আলী কদম",
+              "latitude": 21.653009,
+              "longitude": 92.314768
+            },
+            {
+              "name": "Bandarban Sadar",
+              "bn_name": "বান্দরবন সদর",
+              "latitude": 22.246848,
+              "longitude": 92.243349
+            },
+            {
+              "name": "Lama",
+              "bn_name": "লামা",
+              "latitude": 21.793747,
+              "longitude": 92.263039
+            },
+            {
+              "name": "Naikhongchhari",
+              "bn_name": "নাইখংছড়ি",
+              "latitude": 21.426948,
+              "longitude": 92.175728
+            },
+            {
+              "name": "Rowangchhari",
+              "bn_name": "রউয়াংছড়ি",
+              "latitude": 22.197522,
+              "longitude": 92.36162
+            },
+            {
+              "name": "Ruma",
+              "bn_name": "রুমা",
+              "latitude": 21.981,
+              "longitude": 92.499992
+            },
+            {
+              "name": "Thanchi",
+              "bn_name": "থানচি",
+              "latitude": 21.821096,
+              "longitude": 92.435696
+            }
+          ]
+        },
+        {
+          "name": "Brahmanbaria",
+          "bn_name": "ব্রাহ্মণবাড়িয়া",
+          "latitude": 23.95709,
+          "longitude": 91.111929,
+          "upazilas": [
+            {
+              "name": "Akhaura",
+              "bn_name": "আখাউরা",
+              "latitude": 23.868619,
+              "longitude": 91.209729
+            },
+            {
+              "name": "Ashuganj",
+              "bn_name": "আশুগঞ্জ",
+              "latitude": 24.027738,
+              "longitude": 90.996409
+            },
+            {
+              "name": "Bancharampur",
+              "bn_name": "বাঞ্ছারামপুর",
+              "latitude": 23.784967,
+              "longitude": 90.810357
+            },
+            {
+              "name": "Bijoynagar",
+              "bn_name": "বিজয় নগর",
+              "latitude": 24.014186,
+              "longitude": 91.226554
+            },
+            {
+              "name": "Brahmanbaria Sadar",
+              "bn_name": "ব্রাহ্মণবাড়িয়া সদর",
+              "latitude": 23.925825,
+              "longitude": 91.116117
+            },
+            {
+              "name": "Kasba",
+              "bn_name": "কসবা",
+              "latitude": 23.78307,
+              "longitude": 91.116117
+            },
+            {
+              "name": "Nabinagar",
+              "bn_name": "নবীনগর",
+              "latitude": 23.88821,
+              "longitude": 90.960564
+            },
+            {
+              "name": "Nasirnagar",
+              "bn_name": "নাসির নগর",
+              "latitude": 24.187002,
+              "longitude": 91.173699
+            },
+            {
+              "name": "Sarail",
+              "bn_name": "সরাইল",
+              "latitude": 24.116373,
+              "longitude": 91.077772
+            },
+            {
+              "name": "Shahbazpur Town",
+              "bn_name": "শাহবাজপুর টাউন",
+              "latitude": 24.055996,
+              "longitude": 91.202521
+            }
+          ]
+        },
+        {
+          "name": "Chandpur",
+          "bn_name": "চাঁদপুর",
+          "latitude": 23.233259,
+          "longitude": 90.671291,
+          "upazilas": [
+            {
+              "name": "Chandpur Sadar",
+              "bn_name": "চাঁদপুর সদর",
+              "latitude": 23.232099,
+              "longitude": 90.663075
+            },
+            {
+              "name": "Faridganj",
+              "bn_name": "ফরিদগঞ্জ",
+              "latitude": 23.127488,
+              "longitude": 90.750904
+            },
+            {
+              "name": "Haimchar",
+              "bn_name": "হাইমচর",
+              "latitude": 23.059443,
+              "longitude": 90.64885
+            },
+            {
+              "name": "Haziganj",
+              "bn_name": "হাজীগঞ্জ",
+              "latitude": 23.252041,
+              "longitude": 90.850835
+            },
+            {
+              "name": "Kachua",
+              "bn_name": "কচুয়া",
+              "latitude": 23.341144,
+              "longitude": 90.888968
+            },
+            {
+              "name": "Matlab Dakkhin",
+              "bn_name": "মতলব দক্ষিণ",
+              "latitude": 23.344783,
+              "longitude": 90.762788
+            },
+            {
+              "name": "Matlab Uttar",
+              "bn_name": "মতলব উত্তর",
+              "latitude": 23.428682,
+              "longitude": 90.63937
+            },
+            {
+              "name": "Shahrasti",
+              "bn_name": "শাহরাস্তি",
+              "latitude": 23.230643,
+              "longitude": 90.948622
+            }
+          ]
+        },
+        {
+          "name": "Chattogram",
+          "bn_name": "চট্টগ্রাম",
+          "latitude": 22.335109,
+          "longitude": 91.834073,
+          "upazilas": [
+            {
+              "name": "Akborsha",
+              "bn_name": "আকবর শাহ",
+              "latitude": 22.3737,
+              "longitude": 91.781
+            },
+            {
+              "name": "Anwara",
+              "bn_name": "আনোয়ারা",
+              "latitude": 22.233716,
+              "longitude": 91.865981
+            },
+            {
+              "name": "Baijid bostami",
+              "bn_name": "বায়েজীদ বস্তামি থানা",
+              "latitude": 22.389233,
+              "longitude": 91.809057
+            },
+            {
+              "name": "Bakolia",
+              "bn_name": "বাকলিয়া থানা",
+              "latitude": 22.35583,
+              "longitude": 91.844864
+            },
+            {
+              "name": "Bandar",
+              "bn_name": "বান্দার",
+              "latitude": 22.310416,
+              "longitude": 91.801367
+            },
+            {
+              "name": "Banshkhali",
+              "bn_name": "বাশখালি",
+              "latitude": 21.98843,
+              "longitude": 91.949021
+            },
+            {
+              "name": "Boalkhali",
+              "bn_name": "বোয়ালখালি",
+              "latitude": 22.379106,
+              "longitude": 91.917252
+            },
+            {
+              "name": "Chandanaish",
+              "bn_name": "চন্দনাইশ",
+              "latitude": 22.243894,
+              "longitude": 92.012628
+            },
+            {
+              "name": "Chandgaon",
+              "bn_name": "চান্দগাঁও থানা",
+              "latitude": 22.39798,
+              "longitude": 91.857446
+            },
+            {
+              "name": "Chokbazar",
+              "bn_name": "চকবাজার থানা",
+              "latitude": 22.351774,
+              "longitude": 91.833053
+            },
+            {
+              "name": "Doublemooring",
+              "bn_name": "ডবলমুরিং থানা",
+              "latitude": 22.329715,
+              "longitude": 91.807459
+            },
+            {
+              "name": "EPZ",
+              "bn_name": "ইপিজেড থানা",
+              "latitude": 22.288951,
+              "longitude": 91.776794
+            },
+            {
+              "name": "Fatikchhari",
+              "bn_name": "ফটিকছড়ি",
+              "latitude": 22.753726,
+              "longitude": 91.714958
+            },
+            {
+              "name": "Hali Shohor",
+              "bn_name": "হালিশহর থানা",
+              "latitude": 22.321728,
+              "longitude": 91.786678
+            },
+            {
+              "name": "Hathazari",
+              "bn_name": "হাঠহাজারী",
+              "latitude": 22.508463,
+              "longitude": 91.807459
+            },
+            {
+              "name": "Khulshi",
+              "bn_name": "খুলশী থানা",
+              "latitude": 22.3589,
+              "longitude": 91.81259
+            },
+            {
+              "name": "Kornafuli",
+              "bn_name": "কর্ণফুলী",
+              "latitude": 22.581882,
+              "longitude": 92.106856
+            },
+            {
+              "name": "Kotwali",
+              "bn_name": "কোতয়ালী থানা",
+              "latitude": 22.341415,
+              "longitude": 91.826957
+            },
+            {
+              "name": "Lohagara",
+              "bn_name": "লোহাগারা",
+              "latitude": 22.040195,
+              "longitude": 92.100849
+            },
+            {
+              "name": "Mirsharai",
+              "bn_name": "মিরসরাই",
+              "latitude": 22.773039,
+              "longitude": 91.574152
+            },
+            {
+              "name": "Pahartali",
+              "bn_name": "পাহাড়তলী থানা",
+              "latitude": 22.365788,
+              "longitude": 91.778227
+            },
+            {
+              "name": "Panchlaish",
+              "bn_name": "পাঁচলাইশ থানা",
+              "latitude": 22.362187,
+              "longitude": 91.834272
+            },
+            {
+              "name": "Patiya",
+              "bn_name": "পটিয়া",
+              "latitude": 22.298057,
+              "longitude": 91.968583
+            },
+            {
+              "name": "Potenga",
+              "bn_name": "পতেঙ্গা থানা",
+              "latitude": 22.235202,
+              "longitude": 91.791394
+            },
+            {
+              "name": "Rangunia",
+              "bn_name": "রাঙ্গুনিয়া",
+              "latitude": 22.487242,
+              "longitude": 92.086133
+            },
+            {
+              "name": "Raozan",
+              "bn_name": "রাউজান",
+              "latitude": 22.536843,
+              "longitude": 91.929468
+            },
+            {
+              "name": "Sandwip",
+              "bn_name": "সন্দ্বীপ",
+              "latitude": 22.49194,
+              "longitude": 91.420891
+            },
+            {
+              "name": "Satkania",
+              "bn_name": "সাতকানিয়া",
+              "latitude": 22.105928,
+              "longitude": 92.086133
+            },
+            {
+              "name": "Shodhorgat",
+              "bn_name": "সদরঘাট থানা",
+              "latitude": 22.329819,
+              "longitude": 91.831153
+            },
+            {
+              "name": "Sitakunda",
+              "bn_name": "সীতাকুণ্ড",
+              "latitude": 22.551278,
+              "longitude": 91.705232
+            }
+          ]
+        },
+        {
+          "name": "Cox's Bazar",
+          "bn_name": "কক্স বাজার",
+          "latitude": 21.427228,
+          "longitude": 92.005807,
+          "upazilas": [
+            {
+              "name": "Chakaria",
+              "bn_name": "চকরিয়া",
+              "latitude": 21.761905,
+              "longitude": 92.077551
+            },
+            {
+              "name": "Cox's Bazar Sadar",
+              "bn_name": "কক্স বাজার সদর",
+              "latitude": 21.438303,
+              "longitude": 91.995293
+            },
+            {
+              "name": "Kutubdia",
+              "bn_name": "কুতুবদিয়া",
+              "latitude": 21.816667,
+              "longitude": 91.858333
+            },
+            {
+              "name": "Maheshkhali",
+              "bn_name": "মহেশখালী",
+              "latitude": 21.58341,
+              "longitude": 91.929468
+            },
+            {
+              "name": "Pekua",
+              "bn_name": "পেকুয়া",
+              "latitude": 21.81555,
+              "longitude": 91.953911
+            },
+            {
+              "name": "Ramu",
+              "bn_name": "রামু",
+              "latitude": 21.432368,
+              "longitude": 92.100849
+            },
+            {
+              "name": "Teknaf",
+              "bn_name": "টেকনাফ",
+              "latitude": 21.055665,
+              "longitude": 92.203993
+            },
+            {
+              "name": "Ukhia",
+              "bn_name": "উখিয়া",
+              "latitude": 21.223744,
+              "longitude": 92.105755
+            }
+          ]
+        },
+        {
+          "name": "Cumilla",
+          "bn_name": "কুমিল্লা",
+          "latitude": 23.468275,
+          "longitude": 91.178814,
+          "upazilas": [
+            {
+              "name": "Barura",
+              "bn_name": "বড়ুরা",
+              "latitude": 23.355106,
+              "longitude": 91.039464
+            },
+            {
+              "name": "Brahmanpara",
+              "bn_name": "ব্রাহ্মণপাড়া",
+              "latitude": 23.622527,
+              "longitude": 91.101733
+            },
+            {
+              "name": "Burichong",
+              "bn_name": "বুড়িচং",
+              "latitude": 23.56288,
+              "longitude": 91.120912
+            },
+            {
+              "name": "Chandina",
+              "bn_name": "চান্দিনা",
+              "latitude": 23.489248,
+              "longitude": 91.008364
+            },
+            {
+              "name": "Chauddagram",
+              "bn_name": "চৌদ্দগ্রাম",
+              "latitude": 23.30579,
+              "longitude": 91.269847
+            },
+            {
+              "name": "Comilla Sadar",
+              "bn_name": "কুমিল্লা সদর",
+              "latitude": 23.461384,
+              "longitude": 91.164097
+            },
+            {
+              "name": "Comilla Sadar South",
+              "bn_name": "কুমিল্লা সদর দক্ষিণ",
+              "latitude": 23.306677,
+              "longitude": 91.154496
+            },
+            {
+              "name": "Daudkandi",
+              "bn_name": "দাউদকান্দি",
+              "latitude": 23.499518,
+              "longitude": 90.772297
+            },
+            {
+              "name": "Debidwar",
+              "bn_name": "দেবীদ্বার",
+              "latitude": 23.611454,
+              "longitude": 90.977287
+            },
+            {
+              "name": "Homna",
+              "bn_name": "হোমনা",
+              "latitude": 23.682473,
+              "longitude": 90.783291
+            },
+            {
+              "name": "Laksam",
+              "bn_name": "লাকসাম",
+              "latitude": 23.211686,
+              "longitude": 91.116117
+            },
+            {
+              "name": "Meghna",
+              "bn_name": "মেঘনা",
+              "latitude": 23.626658,
+              "longitude": 90.620533
+            },
+            {
+              "name": "Monohorgonj",
+              "bn_name": "মনোহরগঞ্জ",
+              "latitude": 23.116671,
+              "longitude": 91.077772
+            },
+            {
+              "name": "Muradnagar",
+              "bn_name": "মুরাদনগর",
+              "latitude": 23.712818,
+              "longitude": 90.943847
+            },
+            {
+              "name": "Nangalkot",
+              "bn_name": "নাঙ্গালকোট",
+              "latitude": 23.169406,
+              "longitude": 91.197716
+            },
+            {
+              "name": "Titas",
+              "bn_name": "তিতাস",
+              "latitude": 23.766691,
+              "longitude": 90.867702
+            }
+          ]
+        },
+        {
+          "name": "Feni",
+          "bn_name": "ফেনী",
+          "latitude": 23.023231,
+          "longitude": 91.384084,
+          "upazilas": [
+            {
+              "name": "Chagalnaiya",
+              "bn_name": "ছাগল নাইয়া",
+              "latitude": 23.038628,
+              "longitude": 91.518442
+            },
+            {
+              "name": "Daganbhyan",
+              "bn_name": "দাগানভিয়া",
+              "latitude": 22.972001,
+              "longitude": 91.308369
+            },
+            {
+              "name": "Feni Sadar",
+              "bn_name": "ফেনী সদর",
+              "latitude": 22.971009,
+              "longitude": 91.424143
+            },
+            {
+              "name": "Fhulgazi",
+              "bn_name": "ফুলগাজি",
+              "latitude": 23.11394,
+              "longitude": 91.424143
+            },
+            {
+              "name": "Parshuram",
+              "bn_name": "পরশুরাম",
+              "latitude": 23.209212,
+              "longitude": 91.424143
+            },
+            {
+              "name": "Sonagazi",
+              "bn_name": "সোনাগাজি",
+              "latitude": 22.876048,
+              "longitude": 91.385516
+            }
+          ]
+        },
+        {
+          "name": "Khagrachari",
+          "bn_name": "খাগড়াছড়ি",
+          "latitude": 23.119285,
+          "longitude": 91.984663,
+          "upazilas": [
+            {
+              "name": "Dighinala",
+              "bn_name": "দিঘিনালা",
+              "latitude": 23.240847,
+              "longitude": 92.064069
+            },
+            {
+              "name": "Khagrachhari",
+              "bn_name": "খাগড়াছড়ি",
+              "latitude": 23.132175,
+              "longitude": 91.949021
+            },
+            {
+              "name": "Lakshmichhari",
+              "bn_name": "লক্ষ্মীছড়ি",
+              "latitude": 22.796168,
+              "longitude": 91.912366
+            },
+            {
+              "name": "Mahalchhari",
+              "bn_name": "মহলছড়ি",
+              "latitude": 22.931698,
+              "longitude": 92.029768
+            },
+            {
+              "name": "Manikchhari",
+              "bn_name": "মানিকছড়ি",
+              "latitude": 22.841723,
+              "longitude": 91.83671
+            },
+            {
+              "name": "Matiranga",
+              "bn_name": "মাটিরাঙ্গা",
+              "latitude": 23.040799,
+              "longitude": 91.873302
+            },
+            {
+              "name": "Panchhari",
+              "bn_name": "পানছড়ি",
+              "latitude": 23.302459,
+              "longitude": 91.897713
+            },
+            {
+              "name": "Ramgarh",
+              "bn_name": "রামগড়",
+              "latitude": 22.967507,
+              "longitude": 91.773357
+            }
+          ]
+        },
+        {
+          "name": "Lakshmipur",
+          "bn_name": "লক্ষ্মীপুর",
+          "latitude": 22.942477,
+          "longitude": 90.841184,
+          "upazilas": [
+            {
+              "name": "Komol Nagar",
+              "bn_name": "কমল নগর",
+              "latitude": 22.784474,
+              "longitude": 90.848452
+            },
+            {
+              "name": "Lakshmipur Sadar",
+              "bn_name": "লক্ষ্মীপুর সদর",
+              "latitude": 22.951183,
+              "longitude": 90.867513
+            },
+            {
+              "name": "Raipur",
+              "bn_name": "রায়পুর",
+              "latitude": 22.97585,
+              "longitude": 90.696285
+            },
+            {
+              "name": "Ramganj",
+              "bn_name": "রামগঞ্জ",
+              "latitude": 23.117854,
+              "longitude": 90.886583
+            },
+            {
+              "name": "Ramgati",
+              "bn_name": "রামগতি",
+              "latitude": 22.652914,
+              "longitude": 90.934297
+            }
+          ]
+        },
+        {
+          "name": "Noakhali",
+          "bn_name": "নোয়াখালী",
+          "latitude": 22.869563,
+          "longitude": 91.099398,
+          "upazilas": [
+            {
+              "name": "Begumganj",
+              "bn_name": "বেগমগঞ্জ",
+              "latitude": 22.931933,
+              "longitude": 91.092147
+            },
+            {
+              "name": "Chatkhil",
+              "bn_name": "চাটখিল",
+              "latitude": 23.057793,
+              "longitude": 90.972509
+            },
+            {
+              "name": "Companyganj",
+              "bn_name": "কোম্পানীগঞ্জ",
+              "latitude": 22.829352,
+              "longitude": 91.269847
+            },
+            {
+              "name": "Hatia",
+              "bn_name": "হাতিয়া",
+              "latitude": 22.653056,
+              "longitude": 90.998056
+            },
+            {
+              "name": "Kobirhat",
+              "bn_name": "কবিরহাট",
+              "latitude": 22.795643,
+              "longitude": 91.198917
+            },
+            {
+              "name": "Noakhali Sadar",
+              "bn_name": "নোয়াখালী সদর",
+              "latitude": 22.831012,
+              "longitude": 91.039464
+            },
+            {
+              "name": "Shenbag",
+              "bn_name": "শেনবাগ",
+              "latitude": 22.972615,
+              "longitude": 91.231362
+            },
+            {
+              "name": "Sonaimuri",
+              "bn_name": "সোনাইমুরি",
+              "latitude": 23.050927,
+              "longitude": 91.111322
+            },
+            {
+              "name": "Suborno Char",
+              "bn_name": "সুবর্ণ চর",
+              "latitude": 22.663806,
+              "longitude": 91.09694
+            }
+          ]
+        },
+        {
+          "name": "Rangamati",
+          "bn_name": "রাঙ্গামাটি",
+          "latitude": 22.732417,
+          "longitude": 92.298513,
+          "upazilas": [
+            {
+              "name": "Bagaichhari",
+              "bn_name": "বাঘাইছড়ি",
+              "latitude": 23.461842,
+              "longitude": 92.223667
+            },
+            {
+              "name": "Barkal",
+              "bn_name": "বরকল",
+              "latitude": 22.725156,
+              "longitude": 92.379511
+            },
+            {
+              "name": "Belaichhari",
+              "bn_name": "বেলাইছড়ি",
+              "latitude": 22.36226,
+              "longitude": 92.499992
+            },
+            {
+              "name": "Juraichhari",
+              "bn_name": "জুরাইছড়ি",
+              "latitude": 22.670822,
+              "longitude": 92.378894
+            },
+            {
+              "name": "Kaptai",
+              "bn_name": "কাপ্তাই",
+              "latitude": 22.494382,
+              "longitude": 92.221207
+            },
+            {
+              "name": "Kaukhali",
+              "bn_name": "কাউখালি",
+              "latitude": 22.625809,
+              "longitude": 90.070005
+            },
+            {
+              "name": "Langadu",
+              "bn_name": "লাঙ্গাডু",
+              "latitude": 22.938589,
+              "longitude": 92.184328
+            },
+            {
+              "name": "Nannerchar",
+              "bn_name": "নান্নেরচর",
+              "latitude": 22.862167,
+              "longitude": 92.110662
+            },
+            {
+              "name": "Rajasthali",
+              "bn_name": "রাজাস্থলি",
+              "latitude": 22.389281,
+              "longitude": 92.282738
+            },
+            {
+              "name": "Rangamati Sadar",
+              "bn_name": "রাঙ্গামাটি সদর",
+              "latitude": 22.652733,
+              "longitude": 92.184328
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dhaka",
+      "bn_name": "ঢাকা",
+      "latitude": 23.780621,
+      "longitude": 90.349286,
+      "districts": [
+        {
+          "name": "Dhaka",
+          "bn_name": "ঢাকা",
+          "latitude": 23.711525,
+          "longitude": 90.411145,
+          "upazilas": [
+            {
+              "name": "Adabor",
+              "bn_name": "আদাবর",
+              "latitude": 23.769314,
+              "longitude": 90.352814
+            },
+            {
+              "name": "Airport,Biman Bandar",
+              "bn_name": "বিমান বন্দর",
+              "latitude": 23.846615,
+              "longitude": 90.400435
+            },
+            {
+              "name": "Badda",
+              "bn_name": "বাড্ডা",
+              "latitude": 23.786284,
+              "longitude": 90.412003
+            },
+            {
+              "name": "Banani",
+              "bn_name": "বনানী",
+              "latitude": 23.794698,
+              "longitude": 90.397141
+            },
+            {
+              "name": "Bangshal",
+              "bn_name": "বাংশাল",
+              "latitude": 23.717114,
+              "longitude": 90.398673
+            },
+            {
+              "name": "Bhashantek",
+              "bn_name": "ভাষানটেক",
+              "latitude": 23.808811,
+              "longitude": 90.38951
+            },
+            {
+              "name": "Cantonment",
+              "bn_name": "ক্যান্টনমেন্ট",
+              "latitude": 23.825587,
+              "longitude": 90.378186
+            },
+            {
+              "name": "Chackbazar",
+              "bn_name": "চকবাজার",
+              "latitude": 23.716739,
+              "longitude": 90.395173
+            },
+            {
+              "name": "Darussalam",
+              "bn_name": "দারুস সালাম",
+              "latitude": 23.778715,
+              "longitude": 90.351442
+            },
+            {
+              "name": "Daskhinkhan",
+              "bn_name": "দক্ষিণখান",
+              "latitude": 23.859572,
+              "longitude": 90.422418
+            },
+            {
+              "name": "Demra",
+              "bn_name": "ডেমরা",
+              "latitude": 23.721513,
+              "longitude": 90.462284
+            },
+            {
+              "name": "Dhamrai",
+              "bn_name": "ধামরাই",
+              "latitude": 23.91749,
+              "longitude": 90.213731
+            },
+            {
+              "name": "Dhanmondi",
+              "bn_name": "ধানমন্ডি",
+              "latitude": 23.74703,
+              "longitude": 90.367107
+            },
+            {
+              "name": "Dohar",
+              "bn_name": "দোহার",
+              "latitude": 23.617861,
+              "longitude": 90.117185
+            },
+            {
+              "name": "Gandaria",
+              "bn_name": "গেন্ডারিয়া",
+              "latitude": 23.702218,
+              "longitude": 90.424428
+            },
+            {
+              "name": "Gulshan",
+              "bn_name": "গুলশান",
+              "latitude": 23.789708,
+              "longitude": 90.392925
+            },
+            {
+              "name": "Hazaribag",
+              "bn_name": "হাজারিবাগ",
+              "latitude": 23.734993,
+              "longitude": 90.352733
+            },
+            {
+              "name": "Jatrabari",
+              "bn_name": "যাত্রাবাড়ি",
+              "latitude": 23.715251,
+              "longitude": 90.417676
+            },
+            {
+              "name": "Kafrul",
+              "bn_name": "কাফরুল",
+              "latitude": 23.790957,
+              "longitude": 90.373117
+            },
+            {
+              "name": "Kalabagan",
+              "bn_name": "কলাবাগান",
+              "latitude": 23.746494,
+              "longitude": 90.378184
+            },
+            {
+              "name": "Kamrangirchar",
+              "bn_name": "কামরাঙ্গীরচর",
+              "latitude": 23.72115,
+              "longitude": 90.364651
+            },
+            {
+              "name": "Keraniganj",
+              "bn_name": "কেরানীগঞ্জ",
+              "latitude": 23.694376,
+              "longitude": 90.33755
+            },
+            {
+              "name": "Khilgaon",
+              "bn_name": "খিলগাঁও",
+              "latitude": 23.749665,
+              "longitude": 90.419031
+            },
+            {
+              "name": "Khilkhet",
+              "bn_name": "খিলখেত",
+              "latitude": 23.831321,
+              "longitude": 90.422026
+            },
+            {
+              "name": "Kotwali",
+              "bn_name": "কোতোয়ালী",
+              "latitude": 23.709185,
+              "longitude": 90.403023
+            },
+            {
+              "name": "Lalbag",
+              "bn_name": "লালবাগ",
+              "latitude": 23.719541,
+              "longitude": 90.38591
+            },
+            {
+              "name": "Mirpur Model",
+              "bn_name": "মিরপুর",
+              "latitude": 23.804041,
+              "longitude": 90.356817
+            },
+            {
+              "name": "Mohammadpur",
+              "bn_name": "মোহাম্মদপুর",
+              "latitude": 23.764578,
+              "longitude": 90.351015
+            },
+            {
+              "name": "Motijheel",
+              "bn_name": "মতিঝিল",
+              "latitude": 23.735467,
+              "longitude": 90.409553
+            },
+            {
+              "name": "Mugda",
+              "bn_name": "মুগদা",
+              "latitude": 23.732012,
+              "longitude": 90.427828
+            },
+            {
+              "name": "Nawabganj",
+              "bn_name": "নবাবগঞ্জ",
+              "latitude": 23.653349,
+              "longitude": 90.144989
+            },
+            {
+              "name": "New Market",
+              "bn_name": "নিউ মার্কেট",
+              "latitude": 23.73303,
+              "longitude": 90.382495
+            },
+            {
+              "name": "Pallabi",
+              "bn_name": "পল্লবি",
+              "latitude": 23.832125,
+              "longitude": 90.343044
+            },
+            {
+              "name": "Paltan",
+              "bn_name": "পল্টন",
+              "latitude": 23.736026,
+              "longitude": 90.411938
+            },
+            {
+              "name": "Ramna",
+              "bn_name": "রমনা",
+              "latitude": 23.742946,
+              "longitude": 90.38466
+            },
+            {
+              "name": "Rampura",
+              "bn_name": "রামপুরা",
+              "latitude": 23.760834,
+              "longitude": 90.412414
+            },
+            {
+              "name": "Rupnagar",
+              "bn_name": "রূপনগর",
+              "latitude": 23.776854,
+              "longitude": 90.43509
+            },
+            {
+              "name": "Sabujbag",
+              "bn_name": "সবুজবাগ",
+              "latitude": 23.776834,
+              "longitude": 90.401164
+            },
+            {
+              "name": "Savar",
+              "bn_name": "সাভার",
+              "latitude": 23.885689,
+              "longitude": 90.133027
+            },
+            {
+              "name": "Shah Ali",
+              "bn_name": "শাহ আলী",
+              "latitude": 23.805428,
+              "longitude": 90.346686
+            },
+            {
+              "name": "Shahbag",
+              "bn_name": "শাহবাগ",
+              "latitude": 23.740339,
+              "longitude": 90.391914
+            },
+            {
+              "name": "Shahjahanpur",
+              "bn_name": "শাহজাহানপুর",
+              "latitude": 23.739418,
+              "longitude": 90.420631
+            },
+            {
+              "name": "Sherebanglanagar",
+              "bn_name": "শেরে বাংলা নগর",
+              "latitude": 23.77124,
+              "longitude": 90.364314
+            },
+            {
+              "name": "Shyampur",
+              "bn_name": "শ্যামপুর",
+              "latitude": 23.687271,
+              "longitude": 90.426986
+            },
+            {
+              "name": "Sutrapur",
+              "bn_name": "সূত্রাপুর",
+              "latitude": 23.71124,
+              "longitude": 90.413483
+            },
+            {
+              "name": "Tejgaon",
+              "bn_name": "তেজগাঁও",
+              "latitude": 23.763697,
+              "longitude": 90.370691
+            },
+            {
+              "name": "Tejgaon I/A",
+              "bn_name": "",
+              "latitude": 23.760712,
+              "longitude": 90.39867
+            },
+            {
+              "name": "Turag",
+              "bn_name": "তুরাগ",
+              "latitude": 23.892301,
+              "longitude": 90.35204
+            },
+            {
+              "name": "Uttara",
+              "bn_name": "উত্তরা",
+              "latitude": 23.876633,
+              "longitude": 90.360778
+            },
+            {
+              "name": "Uttara West",
+              "bn_name": "উত্তরা (পূর্ব)",
+              "latitude": 23.871944,
+              "longitude": 90.374479
+            },
+            {
+              "name": "Uttarkhan",
+              "bn_name": "উত্তরখান",
+              "latitude": 23.872611,
+              "longitude": 90.42565
+            },
+            {
+              "name": "Vatara",
+              "bn_name": "ভাটারা",
+              "latitude": 23.80486,
+              "longitude": 90.423225
+            },
+            {
+              "name": "Wari",
+              "bn_name": "ওয়ারী",
+              "latitude": 23.718354,
+              "longitude": 90.415723
+            }
+          ]
+        },
+        {
+          "name": "Faridpur",
+          "bn_name": "ফরিদপুর",
+          "latitude": 23.607082,
+          "longitude": 89.842941,
+          "upazilas": [
+            {
+              "name": "Alfadanga",
+              "bn_name": "আলফাডাঙ্গা",
+              "latitude": 23.274873,
+              "longitude": 89.691022
+            },
+            {
+              "name": "Bhanga",
+              "bn_name": "ভাঙ্গা",
+              "latitude": 23.406169,
+              "longitude": 90.018656
+            },
+            {
+              "name": "Boalmari",
+              "bn_name": "বোয়ালমারী",
+              "latitude": 23.405847,
+              "longitude": 89.681621
+            },
+            {
+              "name": "Charbhadrasan",
+              "bn_name": "চরভদ্রাসন",
+              "latitude": 23.596657,
+              "longitude": 89.981344
+            },
+            {
+              "name": "Faridpur Sadar",
+              "bn_name": "ফরিদপুর সদর",
+              "latitude": 23.620352,
+              "longitude": 89.813036
+            },
+            {
+              "name": "Madhukhali",
+              "bn_name": "মধুখালি",
+              "latitude": 23.548546,
+              "longitude": 89.606328
+            },
+            {
+              "name": "Nagarkanda",
+              "bn_name": "নগরকান্ড",
+              "latitude": 23.453769,
+              "longitude": 89.906631
+            },
+            {
+              "name": "Sadarpur",
+              "bn_name": "সদরপুর",
+              "latitude": 23.501411,
+              "longitude": 90.055994
+            },
+            {
+              "name": "Shaltha",
+              "bn_name": "শালথা",
+              "latitude": 23.43281,
+              "longitude": 89.782568
+            }
+          ]
+        },
+        {
+          "name": "Gazipur",
+          "bn_name": "গাজীপুর",
+          "latitude": 24.002286,
+          "longitude": 90.426428,
+          "upazilas": [
+            {
+              "name": "Gazipur Sadar-Joydebpur",
+              "bn_name": "গাজীপুর সদর",
+              "latitude": 23.999941,
+              "longitude": 90.420272
+            },
+            {
+              "name": "Kaliakior",
+              "bn_name": "কালিয়াকৈর",
+              "latitude": 24.119897,
+              "longitude": 90.280787
+            },
+            {
+              "name": "Kaliganj",
+              "bn_name": "কালীগঞ্জ",
+              "latitude": 23.964478,
+              "longitude": 90.573071
+            },
+            {
+              "name": "Kapasia",
+              "bn_name": "কাপাসিয়া",
+              "latitude": 24.16661,
+              "longitude": 90.582536
+            },
+            {
+              "name": "Sripur",
+              "bn_name": "শ্রীপুর",
+              "latitude": 24.199657,
+              "longitude": 90.48091
+            },
+            {
+              "name": "Tongi",
+              "bn_name": "টঙ্গি",
+              "latitude": 23.901041,
+              "longitude": 90.408822
+            }
+          ]
+        },
+        {
+          "name": "Gopalganj",
+          "bn_name": "গোপালগঞ্জ",
+          "latitude": 23.005086,
+          "longitude": 89.826606,
+          "upazilas": [
+            {
+              "name": "Gopalganj Sadar",
+              "bn_name": "গোপালগঞ্জ সদর",
+              "latitude": 23.901041,
+              "longitude": 90.408822
+            },
+            {
+              "name": "Kashiani",
+              "bn_name": "কাশিয়ানি",
+              "latitude": 23.167846,
+              "longitude": 89.794289
+            },
+            {
+              "name": "Kotalipara",
+              "bn_name": "কোটালিপাড়া",
+              "latitude": 23.04885,
+              "longitude": 90.03732
+            },
+            {
+              "name": "Muksudpur",
+              "bn_name": "মুকসুদপুর",
+              "latitude": 23.263238,
+              "longitude": 89.906631
+            },
+            {
+              "name": "Tungipara",
+              "bn_name": "টুঙ্গিপাড়া",
+              "latitude": 22.907337,
+              "longitude": 89.898451
+            }
+          ]
+        },
+        {
+          "name": "Kishoreganj",
+          "bn_name": "কিশোরগঞ্জ",
+          "latitude": 24.444937,
+          "longitude": 90.776575,
+          "upazilas": [
+            {
+              "name": "Astagram",
+              "bn_name": "অষ্টগ্রাম",
+              "latitude": 24.279535,
+              "longitude": 91.118514
+            },
+            {
+              "name": "Bajitpur",
+              "bn_name": "বাজিতপুর",
+              "latitude": 24.213799,
+              "longitude": 90.952204
+            },
+            {
+              "name": "Bhairab",
+              "bn_name": "ভৈরব",
+              "latitude": 24.044159,
+              "longitude": 90.985652
+            },
+            {
+              "name": "Hossainpur",
+              "bn_name": "হোসেনপুর",
+              "latitude": 24.439631,
+              "longitude": 90.667818
+            },
+            {
+              "name": "Itna",
+              "bn_name": "ইটনা",
+              "latitude": 24.544192,
+              "longitude": 91.077772
+            },
+            {
+              "name": "Karimganj",
+              "bn_name": "করিমগঞ্জ",
+              "latitude": 24.450395,
+              "longitude": 90.886583
+            },
+            {
+              "name": "Katiadi",
+              "bn_name": "কতিয়াদি",
+              "latitude": 24.308222,
+              "longitude": 90.810357
+            },
+            {
+              "name": "Kishoreganj Sadar",
+              "bn_name": "কিশোরগঞ্জ সদর",
+              "latitude": 24.403491,
+              "longitude": 90.772297
+            },
+            {
+              "name": "Kuliarchar",
+              "bn_name": "কুলিয়ারচর",
+              "latitude": 24.153209,
+              "longitude": 90.896122
+            },
+            {
+              "name": "Mithamain",
+              "bn_name": "মিঠামাইন",
+              "latitude": 24.419558,
+              "longitude": 91.063402
+            },
+            {
+              "name": "Nikli",
+              "bn_name": "নিকলি",
+              "latitude": 24.354873,
+              "longitude": 90.962952
+            },
+            {
+              "name": "Pakundia",
+              "bn_name": "পাকুন্ডা",
+              "latitude": 24.308785,
+              "longitude": 90.696285
+            },
+            {
+              "name": "Tarail",
+              "bn_name": "তাড়াইল",
+              "latitude": 24.545202,
+              "longitude": 90.92475
+            }
+          ]
+        },
+        {
+          "name": "Madaripur",
+          "bn_name": "মাদারীপুর",
+          "latitude": 23.164102,
+          "longitude": 90.18968,
+          "upazilas": [
+            {
+              "name": "Kalkini",
+              "bn_name": "কালকিনি",
+              "latitude": 23.072433,
+              "longitude": 90.280787
+            },
+            {
+              "name": "Madaripur Sadar",
+              "bn_name": "মাদারীপুর সদর",
+              "latitude": 23.215535,
+              "longitude": 90.168227
+            },
+            {
+              "name": "Rajoir",
+              "bn_name": "রাজইর",
+              "latitude": 23.206683,
+              "longitude": 90.04899
+            },
+            {
+              "name": "Shibchar",
+              "bn_name": "শিবচর",
+              "latitude": 23.358449,
+              "longitude": 90.168227
+            }
+          ]
+        },
+        {
+          "name": "Manikganj",
+          "bn_name": "মানিকগঞ্জ",
+          "latitude": 23.861651,
+          "longitude": 90.000323,
+          "upazilas": [
+            {
+              "name": "Daulatpur",
+              "bn_name": "দৌলতপুর",
+              "latitude": 23.941626,
+              "longitude": 89.803664
+            },
+            {
+              "name": "Ghior",
+              "bn_name": "ঘিওর",
+              "latitude": 23.870348,
+              "longitude": 89.915978
+            },
+            {
+              "name": "Harirampur",
+              "bn_name": "হরিরামপুর",
+              "latitude": 23.715676,
+              "longitude": 89.96268
+            },
+            {
+              "name": "Manikganj Sadar",
+              "bn_name": "মানিকগঞ্জ সদর",
+              "latitude": 23.834677,
+              "longitude": 90.018656
+            },
+            {
+              "name": "Saturia",
+              "bn_name": "সাঠুরিয়া",
+              "latitude": 23.972972,
+              "longitude": 90.036153
+            },
+            {
+              "name": "Shibalaya",
+              "bn_name": "শিবালয়",
+              "latitude": 23.834622,
+              "longitude": 89.86922
+            },
+            {
+              "name": "Singair",
+              "bn_name": "সিঙ্গাইর",
+              "latitude": 23.786991,
+              "longitude": 90.168227
+            }
+          ]
+        },
+        {
+          "name": "Munshiganj",
+          "bn_name": "মুন্সিগঞ্জ",
+          "latitude": 23.498093,
+          "longitude": 90.412662,
+          "upazilas": [
+            {
+              "name": "Gazaria",
+              "bn_name": "গজারিয়া",
+              "latitude": 23.547811,
+              "longitude": 90.620416
+            },
+            {
+              "name": "Lohajang",
+              "bn_name": "লোহাজং",
+              "latitude": 23.474305,
+              "longitude": 90.32073
+            },
+            {
+              "name": "Munshiganj Sadar",
+              "bn_name": "মুন্সিগঞ্জ সদর",
+              "latitude": 23.500474,
+              "longitude": 90.544691
+            },
+            {
+              "name": "Sirajdikhan",
+              "bn_name": "সিরাজদিখান",
+              "latitude": 23.596162,
+              "longitude": 90.393672
+            },
+            {
+              "name": "Sreenagar",
+              "bn_name": "শ্রীনগর",
+              "latitude": 23.54879,
+              "longitude": 90.280787
+            },
+            {
+              "name": "Tongibari",
+              "bn_name": "টঙ্গিবাড়ি",
+              "latitude": 23.509655,
+              "longitude": 90.46675
+            }
+          ]
+        },
+        {
+          "name": "Narayanganj",
+          "bn_name": "নারায়াণগঞ্জ",
+          "latitude": 23.63366,
+          "longitude": 90.496482,
+          "upazilas": [
+            {
+              "name": "Araihazar",
+              "bn_name": "আড়াইহাজার",
+              "latitude": 23.791656,
+              "longitude": 90.653591
+            },
+            {
+              "name": "Bandar",
+              "bn_name": "বান্দার",
+              "latitude": 23.631449,
+              "longitude": 90.535236
+            },
+            {
+              "name": "Naryanganj Sadar",
+              "bn_name": "নারায়ানগঞ্জ সদর",
+              "latitude": 23.631574,
+              "longitude": 90.497436
+            },
+            {
+              "name": "Rupganj",
+              "bn_name": "রূপগঞ্জ",
+              "latitude": 23.833721,
+              "longitude": 90.544691
+            },
+            {
+              "name": "Siddirgonj",
+              "bn_name": "সিদ্ধিরগঞ্জ",
+              "latitude": 23.71466,
+              "longitude": 90.563609
+            },
+            {
+              "name": "Sonargaon",
+              "bn_name": "সোনারগাঁও",
+              "latitude": 23.690642,
+              "longitude": 90.620416
+            }
+          ]
+        },
+        {
+          "name": "Narsingdi",
+          "bn_name": "নরসিংদী",
+          "latitude": 23.932233,
+          "longitude": 90.71541,
+          "upazilas": [
+            {
+              "name": "Belabo",
+              "bn_name": "বেলাবো",
+              "latitude": 24.106647,
+              "longitude": 90.85143
+            },
+            {
+              "name": "Monohardi",
+              "bn_name": "মনোহরদি",
+              "latitude": 24.165958,
+              "longitude": 90.734273
+            },
+            {
+              "name": "Narsingdi Sadar",
+              "bn_name": "নরসিংদী সদর",
+              "latitude": 23.880702,
+              "longitude": 90.696285
+            },
+            {
+              "name": "Palash",
+              "bn_name": "পলাশ",
+              "latitude": 23.964178,
+              "longitude": 90.64885
+            },
+            {
+              "name": "Raipura , Narsingdi",
+              "bn_name": "রায়পুর",
+              "latitude": 23.9749,
+              "longitude": 90.8866
+            },
+            {
+              "name": "Shibpur",
+              "bn_name": "শিবপুর",
+              "latitude": 24.023079,
+              "longitude": 90.772297
+            }
+          ]
+        },
+        {
+          "name": "Rajbari",
+          "bn_name": "রাজবাড়ি",
+          "latitude": 23.757431,
+          "longitude": 89.644466,
+          "upazilas": [
+            {
+              "name": "Baliakandi",
+              "bn_name": "বালিয়াকান্দি",
+              "latitude": 23.634687,
+              "longitude": 89.547405
+            },
+            {
+              "name": "Goalandaghat",
+              "bn_name": "গোয়ালন্দ ঘাট",
+              "latitude": 23.739292,
+              "longitude": 89.756769
+            },
+            {
+              "name": "Kalukhali",
+              "bn_name": "কালুখালি",
+              "latitude": 23.427954,
+              "longitude": 89.083143
+            },
+            {
+              "name": "Pangsha",
+              "bn_name": "পাংশা",
+              "latitude": 23.780022,
+              "longitude": 89.412731
+            },
+            {
+              "name": "Rajbari Sadar",
+              "bn_name": "রাজবাড়ি সদর",
+              "latitude": 23.715315,
+              "longitude": 89.662811
+            }
+          ]
+        },
+        {
+          "name": "Shariatpur",
+          "bn_name": "শরীয়তপুর",
+          "latitude": 23.219703,
+          "longitude": 90.350126,
+          "upazilas": [
+            {
+              "name": "Bhedarganj",
+              "bn_name": "ভেদারগঞ্জ",
+              "latitude": 23.214812,
+              "longitude": 90.506882
+            },
+            {
+              "name": "Damudya",
+              "bn_name": "দামুদিয়া",
+              "latitude": 23.131682,
+              "longitude": 90.421944
+            },
+            {
+              "name": "Gosairhat",
+              "bn_name": "গোসাইর হাট",
+              "latitude": 23.09884,
+              "longitude": 90.452595
+            },
+            {
+              "name": "Jajira",
+              "bn_name": "জাজিরা",
+              "latitude": 23.347831,
+              "longitude": 90.300753
+            },
+            {
+              "name": "Naria",
+              "bn_name": "নড়িয়া",
+              "latitude": 23.262676,
+              "longitude": 90.431373
+            },
+            {
+              "name": "Shariatpur Sadar -Palong",
+              "bn_name": "শরীয়তপুর সদর",
+              "latitude": 23.2153,
+              "longitude": 90.3184
+            }
+          ]
+        },
+        {
+          "name": "Tangail",
+          "bn_name": "টাঙ্গাইল",
+          "latitude": 24.251345,
+          "longitude": 89.91671,
+          "upazilas": [
+            {
+              "name": "Basail",
+              "bn_name": "বাসাইল",
+              "latitude": 24.233097,
+              "longitude": 90.051325
+            },
+            {
+              "name": "Bhuapur",
+              "bn_name": "ভুয়াপুর",
+              "latitude": 24.45284,
+              "longitude": 89.794289
+            },
+            {
+              "name": "Delduar",
+              "bn_name": "দেলদুয়ার",
+              "latitude": 24.120143,
+              "longitude": 89.944006
+            },
+            {
+              "name": "Dhanbari",
+              "bn_name": "ধানবাড়ি",
+              "latitude": 24.690533,
+              "longitude": 89.944006
+            },
+            {
+              "name": "Ghatail",
+              "bn_name": "ঘাটাইল",
+              "latitude": 24.476738,
+              "longitude": 90.03732
+            },
+            {
+              "name": "Gopalpur",
+              "bn_name": "গোপালপুর",
+              "latitude": 24.562854,
+              "longitude": 89.927659
+            },
+            {
+              "name": "Kalihati",
+              "bn_name": "কালিহাতি",
+              "latitude": 24.357903,
+              "longitude": 89.944006
+            },
+            {
+              "name": "Madhupur",
+              "bn_name": "মধুপুর",
+              "latitude": 24.643032,
+              "longitude": 90.055994
+            },
+            {
+              "name": "Mirzapur",
+              "bn_name": "মির্জাপুর",
+              "latitude": 24.105253,
+              "longitude": 90.105056
+            },
+            {
+              "name": "Nagarpur",
+              "bn_name": "নগরপুর",
+              "latitude": 24.057671,
+              "longitude": 89.876238
+            },
+            {
+              "name": "Sakhipur",
+              "bn_name": "সখিপুর",
+              "latitude": 24.286485,
+              "longitude": 90.186964
+            },
+            {
+              "name": "Tangail Sadar",
+              "bn_name": "টাঙ্গাইল সদর",
+              "latitude": 24.262769,
+              "longitude": 89.86922
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Khulna",
+      "bn_name": "খুলনা",
+      "latitude": 22.845641,
+      "longitude": 89.540328,
+      "districts": [
+        {
+          "name": "Bagerhat",
+          "bn_name": "বাগেরহাট",
+          "latitude": 22.651568,
+          "longitude": 89.785938,
+          "upazilas": [
+            {
+              "name": "Bagerhat Sadar",
+              "bn_name": "বাগেরহাট সদর",
+              "latitude": 22.655452,
+              "longitude": 89.766153
+            },
+            {
+              "name": "Chitalmari",
+              "bn_name": "চিতলমাড়ি",
+              "latitude": 22.786664,
+              "longitude": 89.86922
+            },
+            {
+              "name": "Fakirhat",
+              "bn_name": "ফকিরহাট",
+              "latitude": 22.777513,
+              "longitude": 89.70747
+            },
+            {
+              "name": "Kachua",
+              "bn_name": "কচুয়া",
+              "latitude": 23.341144,
+              "longitude": 90.888968
+            },
+            {
+              "name": "Mollahat",
+              "bn_name": "মোল্লাহাট",
+              "latitude": 22.881864,
+              "longitude": 89.756769
+            },
+            {
+              "name": "Mongla",
+              "bn_name": "মংলা",
+              "latitude": 22.49422,
+              "longitude": 89.601617
+            },
+            {
+              "name": "Morrelganj",
+              "bn_name": "মরেলগঞ্জ",
+              "latitude": 22.449941,
+              "longitude": 89.852842
+            },
+            {
+              "name": "Rampal",
+              "bn_name": "রামপাল",
+              "latitude": 22.595713,
+              "longitude": 89.681621
+            },
+            {
+              "name": "Sarankhola",
+              "bn_name": "স্মরণখোলা",
+              "latitude": 22.095223,
+              "longitude": 89.813036
+            }
+          ]
+        },
+        {
+          "name": "Chuadanga",
+          "bn_name": "চুয়াডাঙ্গা",
+          "latitude": 23.640196,
+          "longitude": 88.841841,
+          "upazilas": [
+            {
+              "name": "Alamdanga",
+              "bn_name": "আলমডাঙ্গা",
+              "latitude": 23.762667,
+              "longitude": 88.943781
+            },
+            {
+              "name": "Chuadanga Sadar",
+              "bn_name": "চুয়াডাঙ্গা সদর",
+              "latitude": 23.641984,
+              "longitude": 88.856576
+            },
+            {
+              "name": "Damurhuda",
+              "bn_name": "দামুরহুদা",
+              "latitude": 23.606738,
+              "longitude": 88.77585
+            },
+            {
+              "name": "Jibannagar",
+              "bn_name": "জীবন নগর",
+              "latitude": 23.422604,
+              "longitude": 88.8239
+            }
+          ]
+        },
+        {
+          "name": "Jashore",
+          "bn_name": "যশোর",
+          "latitude": 23.16643,
+          "longitude": 89.208113,
+          "upazilas": [
+            {
+              "name": "Abhaynagar",
+              "bn_name": "অভয়নগর",
+              "latitude": 23.023818,
+              "longitude": 89.379583
+            },
+            {
+              "name": "Bagherpara",
+              "bn_name": "বাঘের পাড়া",
+              "latitude": 23.214254,
+              "longitude": 89.341667
+            },
+            {
+              "name": "Chaugachha",
+              "bn_name": "চৌগাছা",
+              "latitude": 23.260329,
+              "longitude": 89.037048
+            },
+            {
+              "name": "Jessore Sadar",
+              "bn_name": "যশোর সদর",
+              "latitude": 23.166097,
+              "longitude": 89.227703
+            },
+            {
+              "name": "Jhikargachha",
+              "bn_name": "ঝিকরগাছা",
+              "latitude": 23.099907,
+              "longitude": 89.099108
+            },
+            {
+              "name": "Keshabpur",
+              "bn_name": "কেশবপুর",
+              "latitude": 22.880184,
+              "longitude": 89.227703
+            },
+            {
+              "name": "Manirampur",
+              "bn_name": "মনিরামপুর",
+              "latitude": 23.023153,
+              "longitude": 89.227703
+            },
+            {
+              "name": "Sharsha",
+              "bn_name": "সারশা",
+              "latitude": 23.069281,
+              "longitude": 88.960536
+            }
+          ]
+        },
+        {
+          "name": "Jhenaidah",
+          "bn_name": "ঝিনাইদহ",
+          "latitude": 23.544818,
+          "longitude": 89.153921,
+          "upazilas": [
+            {
+              "name": "Harinakunda",
+              "bn_name": "হাড়িনাকুন্দা",
+              "latitude": 23.641528,
+              "longitude": 89.07525
+            },
+            {
+              "name": "Jhenaidah Sadar",
+              "bn_name": "ঝিনাইদহ সদর",
+              "latitude": 23.499124,
+              "longitude": 89.151548
+            },
+            {
+              "name": "Kaliganj",
+              "bn_name": "কালীগঞ্জ",
+              "latitude": 23.356252,
+              "longitude": 89.151548
+            },
+            {
+              "name": "Kotchandpur",
+              "bn_name": "কোট চাঁদপুর",
+              "latitude": 23.407529,
+              "longitude": 89.011958
+            },
+            {
+              "name": "Maheshpur",
+              "bn_name": "মহেশপুর",
+              "latitude": 23.330349,
+              "longitude": 88.826301
+            },
+            {
+              "name": "Shailkupa",
+              "bn_name": "শৈলকুপা",
+              "latitude": 23.684083,
+              "longitude": 89.241966
+            }
+          ]
+        },
+        {
+          "name": "Khulna",
+          "bn_name": "খুলনা",
+          "latitude": 22.815774,
+          "longitude": 89.568679,
+          "upazilas": [
+            {
+              "name": "Aranghata",
+              "bn_name": "আরংঘাটা",
+              "latitude": 22.92,
+              "longitude": 89.48
+            },
+            {
+              "name": "Batiaghata",
+              "bn_name": "বাটিয়াঘাটা",
+              "latitude": 22.726361,
+              "longitude": 89.502564
+            },
+            {
+              "name": "Dacope",
+              "bn_name": "ডাকপে",
+              "latitude": 22.601235,
+              "longitude": 89.507287
+            },
+            {
+              "name": "Daulatpur",
+              "bn_name": "দৌলতপুর",
+              "latitude": 22.863445,
+              "longitude": 89.51673
+            },
+            {
+              "name": "Dighalia",
+              "bn_name": "দিঘলিয়া",
+              "latitude": 22.881361,
+              "longitude": 89.53089
+            },
+            {
+              "name": "Dumuria",
+              "bn_name": "ডুমুরিয়া",
+              "latitude": 22.857225,
+              "longitude": 89.436391
+            },
+            {
+              "name": "Horintana",
+              "bn_name": "হরিনটানা",
+              "latitude": 22.795564,
+              "longitude": 89.529562
+            },
+            {
+              "name": "Khalishpur",
+              "bn_name": "খালিশপুর থানা",
+              "latitude": 22.858132,
+              "longitude": 89.546078
+            },
+            {
+              "name": "Khanjahan Ali",
+              "bn_name": "খানজাহান আলী থানা",
+              "latitude": 22.658462,
+              "longitude": 89.758552
+            },
+            {
+              "name": "Koyra",
+              "bn_name": "কয়ড়া",
+              "latitude": 22.094086,
+              "longitude": 89.36063
+            },
+            {
+              "name": "Paikgachha",
+              "bn_name": "পাইকগাছা",
+              "latitude": 22.593092,
+              "longitude": 89.316765
+            },
+            {
+              "name": "Phultala",
+              "bn_name": "ফুলতলা",
+              "latitude": 22.940664,
+              "longitude": 89.445851
+            },
+            {
+              "name": "Rupsa",
+              "bn_name": "রূপসা",
+              "latitude": 22.822051,
+              "longitude": 89.63458
+            },
+            {
+              "name": "Sonadanga",
+              "bn_name": "সোনাডাঙ্গা থানা",
+              "latitude": 22.824781,
+              "longitude": 89.537969
+            },
+            {
+              "name": "Terokhada",
+              "bn_name": "তেরোখাদা",
+              "latitude": 22.935322,
+              "longitude": 89.667514
+            }
+          ]
+        },
+        {
+          "name": "Kushtia",
+          "bn_name": "কুষ্টিয়া",
+          "latitude": 23.901258,
+          "longitude": 89.120482,
+          "upazilas": [
+            {
+              "name": "Bheramara",
+              "bn_name": "ভেরামারা",
+              "latitude": 24.020975,
+              "longitude": 88.992234
+            },
+            {
+              "name": "Daulatpur",
+              "bn_name": "দৌলতপুর",
+              "latitude": 24.020689,
+              "longitude": 88.845504
+            },
+            {
+              "name": "Khoksa",
+              "bn_name": "খোকসা",
+              "latitude": 23.797376,
+              "longitude": 89.294221
+            },
+            {
+              "name": "Kumarkhali",
+              "bn_name": "কুমারখালি",
+              "latitude": 23.859581,
+              "longitude": 89.239589
+            },
+            {
+              "name": "Kushtia Sadar",
+              "bn_name": "কুষ্টিয়া সদর",
+              "latitude": 23.831919,
+              "longitude": 89.07525
+            },
+            {
+              "name": "Mirpur",
+              "bn_name": "মিরপুর",
+              "latitude": 23.87903,
+              "longitude": 88.99881
+            }
+          ]
+        },
+        {
+          "name": "Magura",
+          "bn_name": "মাগুরা",
+          "latitude": 23.487337,
+          "longitude": 89.419956,
+          "upazilas": [
+            {
+              "name": "Magura Sadar",
+              "bn_name": "মাগুরা সদর",
+              "latitude": 23.452716,
+              "longitude": 89.417464
+            },
+            {
+              "name": "Mohammadpur",
+              "bn_name": "মোহাম্মাদপুর",
+              "latitude": 23.405578,
+              "longitude": 89.568627
+            },
+            {
+              "name": "Shalikha",
+              "bn_name": "শালিখা",
+              "latitude": 23.357162,
+              "longitude": 89.341667
+            },
+            {
+              "name": "Sreepur",
+              "bn_name": "শ্রীপুর",
+              "latitude": 24.199657,
+              "longitude": 90.48091
+            }
+          ]
+        },
+        {
+          "name": "Meherpur",
+          "bn_name": "মেহেরপুর",
+          "latitude": 23.762213,
+          "longitude": 88.631821,
+          "upazilas": [
+            {
+              "name": "Gangni",
+              "bn_name": "গাংনী",
+              "latitude": 23.820652,
+              "longitude": 88.742183
+            },
+            {
+              "name": "Meherpur Sadar",
+              "bn_name": "মেহেরপুর সদর",
+              "latitude": 23.778046,
+              "longitude": 88.650939
+            },
+            {
+              "name": "Mujib Nagar",
+              "bn_name": "মুজিব নগর",
+              "latitude": 23.646846,
+              "longitude": 88.592761
+            }
+          ]
+        },
+        {
+          "name": "Narail",
+          "bn_name": "নড়াইল",
+          "latitude": 23.172534,
+          "longitude": 89.512672,
+          "upazilas": [
+            {
+              "name": "Kalia",
+              "bn_name": "কালিয়া",
+              "latitude": 23.024629,
+              "longitude": 89.643992
+            },
+            {
+              "name": "Lohagara",
+              "bn_name": "লোহাগাড়া",
+              "latitude": 23.167579,
+              "longitude": 89.643992
+            },
+            {
+              "name": "Narail Sadar",
+              "bn_name": "নড়াইল সদর",
+              "latitude": 23.1657,
+              "longitude": 89.499
+            }
+          ]
+        },
+        {
+          "name": "Satkhira",
+          "bn_name": "সাতক্ষীরা",
+          "latitude": 22.315481,
+          "longitude": 89.111453,
+          "upazilas": [
+            {
+              "name": "Assasuni",
+              "bn_name": "আসসাশুনি",
+              "latitude": 22.546319,
+              "longitude": 89.189643
+            },
+            {
+              "name": "Debhata",
+              "bn_name": "দেভাটা",
+              "latitude": 22.580946,
+              "longitude": 88.989245
+            },
+            {
+              "name": "Kalaroa",
+              "bn_name": "কলারোয়া",
+              "latitude": 22.87915,
+              "longitude": 89.037048
+            },
+            {
+              "name": "Kaliganj",
+              "bn_name": "কালীগঞ্জ",
+              "latitude": 23.964478,
+              "longitude": 90.573071
+            },
+            {
+              "name": "Satkhira Sadar",
+              "bn_name": "সাতক্ষীরা সদর",
+              "latitude": 22.736163,
+              "longitude": 89.037048
+            },
+            {
+              "name": "Shyamnagar",
+              "bn_name": "শ্যামনগর",
+              "latitude": 21.950168,
+              "longitude": 89.1706
+            },
+            {
+              "name": "Tala",
+              "bn_name": "তালা",
+              "latitude": 22.760933,
+              "longitude": 89.208677
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mymensingh",
+      "bn_name": "ময়মনসিংহ",
+      "latitude": 24.747149,
+      "longitude": 90.420273,
+      "districts": [
+        {
+          "name": "Jamalpur",
+          "bn_name": "জামালপুর",
+          "latitude": 24.937533,
+          "longitude": 89.937775,
+          "upazilas": [
+            {
+              "name": "Baksiganj",
+              "bn_name": "বকসিগঞ্জ",
+              "latitude": 25.184411,
+              "longitude": 89.868051
+            },
+            {
+              "name": "Dewanganj",
+              "bn_name": "দেওয়ানগঞ্জ",
+              "latitude": 25.21243,
+              "longitude": 89.756769
+            },
+            {
+              "name": "Islampur",
+              "bn_name": "ইসলামপুর",
+              "latitude": 25.070125,
+              "longitude": 89.756769
+            },
+            {
+              "name": "Jamalpur Sadar",
+              "bn_name": "জামালপুর সদর",
+              "latitude": 24.856744,
+              "longitude": 90.03732
+            },
+            {
+              "name": "Madarganj",
+              "bn_name": "মাদারগঞ্জ",
+              "latitude": 24.880288,
+              "longitude": 89.756769
+            },
+            {
+              "name": "Melandaha",
+              "bn_name": "মেলানদাহা",
+              "latitude": 24.98125,
+              "longitude": 89.827089
+            },
+            {
+              "name": "Narundi Police I.C",
+              "bn_name": "নারুন্দি",
+              "latitude": 24.8626,
+              "longitude": 90.1167
+            },
+            {
+              "name": "Sarishabari",
+              "bn_name": "সরিষাবাড়ি",
+              "latitude": 24.751297,
+              "longitude": 89.82826
+            }
+          ]
+        },
+        {
+          "name": "Mymensingh",
+          "bn_name": "ময়মনসিংহ",
+          "latitude": 24.747149,
+          "longitude": 90.420273,
+          "upazilas": [
+            {
+              "name": "Bhaluka",
+              "bn_name": "ভালুকা",
+              "latitude": 24.407929,
+              "longitude": 90.386607
+            },
+            {
+              "name": "Dhobaura",
+              "bn_name": "ধবারুয়া",
+              "latitude": 25.116904,
+              "longitude": 90.506882
+            },
+            {
+              "name": "Fulbaria",
+              "bn_name": "ফুলবাড়িয়া",
+              "latitude": 24.571553,
+              "longitude": 90.262004
+            },
+            {
+              "name": "Gaffargaon",
+              "bn_name": "গফরগাঁও",
+              "latitude": 24.457185,
+              "longitude": 90.548696
+            },
+            {
+              "name": "Gauripur",
+              "bn_name": "গৌরিপুর",
+              "latitude": 24.736913,
+              "longitude": 90.582536
+            },
+            {
+              "name": "Haluaghat",
+              "bn_name": "হালুয়াঘাট",
+              "latitude": 25.11734,
+              "longitude": 90.356008
+            },
+            {
+              "name": "Ishwarganj",
+              "bn_name": "ঈশ্বরগঞ্জ",
+              "latitude": 24.692342,
+              "longitude": 90.59437
+            },
+            {
+              "name": "Muktagachha",
+              "bn_name": "মুক্তাগাছা",
+              "latitude": 24.766018,
+              "longitude": 90.256137
+            },
+            {
+              "name": "Mymensingh Sadar",
+              "bn_name": "ময়মনসিং সদর",
+              "latitude": 24.785106,
+              "longitude": 90.356008
+            },
+            {
+              "name": "Nandail",
+              "bn_name": "নন্দাইল",
+              "latitude": 24.568722,
+              "longitude": 90.690353
+            },
+            {
+              "name": "Phulpur",
+              "bn_name": "ফুলপুর",
+              "latitude": 24.975079,
+              "longitude": 90.318379
+            },
+            {
+              "name": "Trishal",
+              "bn_name": "ত্রিশাল",
+              "latitude": 24.581658,
+              "longitude": 90.39485
+            }
+          ]
+        },
+        {
+          "name": "Netrokona",
+          "bn_name": "নেত্রকোণা",
+          "latitude": 24.870955,
+          "longitude": 90.727887,
+          "upazilas": [
+            {
+              "name": "Atpara",
+              "bn_name": "আটপাড়া",
+              "latitude": 24.809776,
+              "longitude": 90.860365
+            },
+            {
+              "name": "Barhatta",
+              "bn_name": "বরহাট্টা",
+              "latitude": 24.925333,
+              "longitude": 90.886583
+            },
+            {
+              "name": "Durgapur",
+              "bn_name": "দুর্গাপুর",
+              "latitude": 25.113273,
+              "longitude": 90.674933
+            },
+            {
+              "name": "Kalmakanda",
+              "bn_name": "কলমাকান্দা",
+              "latitude": 25.067912,
+              "longitude": 90.848452
+            },
+            {
+              "name": "Kendua",
+              "bn_name": "কেন্দুয়া",
+              "latitude": 24.688369,
+              "longitude": 90.810357
+            },
+            {
+              "name": "Khaliajuri",
+              "bn_name": "খালিয়াজুরি",
+              "latitude": 24.686418,
+              "longitude": 91.116117
+            },
+            {
+              "name": "Madan",
+              "bn_name": "মদন",
+              "latitude": 24.7143,
+              "longitude": 90.9462
+            },
+            {
+              "name": "Mohanganj",
+              "bn_name": "মোহনগঞ্জ",
+              "latitude": 24.874322,
+              "longitude": 90.979677
+            },
+            {
+              "name": "Netrakona Sadar",
+              "bn_name": "নেত্রকোনা সদর",
+              "latitude": 24.855,
+              "longitude": 90.7153
+            },
+            {
+              "name": "Purbadhala",
+              "bn_name": "পূর্বধলা",
+              "latitude": 24.926823,
+              "longitude": 90.582536
+            }
+          ]
+        },
+        {
+          "name": "Sherpur",
+          "bn_name": "শেরপুর",
+          "latitude": 25.020493,
+          "longitude": 90.015297,
+          "upazilas": [
+            {
+              "name": "Jhenaigati",
+              "bn_name": "ঝিনাইগাতি",
+              "latitude": 25.185938,
+              "longitude": 90.062999
+            },
+            {
+              "name": "Nakla",
+              "bn_name": "নাকলা",
+              "latitude": 24.975276,
+              "longitude": 90.205711
+            },
+            {
+              "name": "Nalitabari",
+              "bn_name": "নালিতাবাড়ি",
+              "latitude": 25.141367,
+              "longitude": 90.186964
+            },
+            {
+              "name": "Sherpur Sadar",
+              "bn_name": "শেরপুর সদর",
+              "latitude": 25.022872,
+              "longitude": 90.018656
+            },
+            {
+              "name": "Sreebardi",
+              "bn_name": "শ্রীবরদি",
+              "latitude": 25.147401,
+              "longitude": 89.939336
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rajshahi",
+      "bn_name": "রাজশাহী",
+      "latitude": 24.363589,
+      "longitude": 88.624135,
+      "districts": [
+        {
+          "name": "Bogura",
+          "bn_name": "বগুড়া",
+          "latitude": 24.846523,
+          "longitude": 89.377755,
+          "upazilas": [
+            {
+              "name": "Adamdighi",
+              "bn_name": "আদমদিঘী",
+              "latitude": 24.829925,
+              "longitude": 89.037048
+            },
+            {
+              "name": "Bogra Sadar",
+              "bn_name": "বগুড়া সদর",
+              "latitude": 24.879042,
+              "longitude": 89.341667
+            },
+            {
+              "name": "Dhunat",
+              "bn_name": "ধুনট",
+              "latitude": 24.677969,
+              "longitude": 89.540328
+            },
+            {
+              "name": "Dhupchanchia",
+              "bn_name": "দুপচাচিয়া",
+              "latitude": 24.8812,
+              "longitude": 89.177742
+            },
+            {
+              "name": "Gabtali",
+              "bn_name": "গাবতলি",
+              "latitude": 24.879497,
+              "longitude": 89.455309
+            },
+            {
+              "name": "Kahaloo",
+              "bn_name": "কাহালু",
+              "latitude": 24.831216,
+              "longitude": 89.265727
+            },
+            {
+              "name": "Nandigram",
+              "bn_name": "নন্দিগ্রাম",
+              "latitude": 24.688568,
+              "longitude": 89.227703
+            },
+            {
+              "name": "Sahajanpur",
+              "bn_name": "শাহজাহানপুর",
+              "latitude": 24.760427,
+              "longitude": 89.36063
+            },
+            {
+              "name": "Sariakandi",
+              "bn_name": "সারিয়াকান্দি",
+              "latitude": 24.888773,
+              "longitude": 89.570984
+            },
+            {
+              "name": "Sherpur",
+              "bn_name": "শেরপুর",
+              "latitude": 24.64192,
+              "longitude": 89.417464
+            },
+            {
+              "name": "Shibganj",
+              "bn_name": "শিবগঞ্জ",
+              "latitude": 25.000568,
+              "longitude": 89.320323
+            },
+            {
+              "name": "Sonatala",
+              "bn_name": "সোনাতলা",
+              "latitude": 25.010183,
+              "longitude": 89.502564
+            }
+          ]
+        },
+        {
+          "name": "Joypurhat",
+          "bn_name": "জয়পুরহাট",
+          "latitude": 25.094735,
+          "longitude": 89.094494,
+          "upazilas": [
+            {
+              "name": "Akkelpur",
+              "bn_name": "আক্কেলপুর",
+              "latitude": 24.969246,
+              "longitude": 89.020323
+            },
+            {
+              "name": "Joypurhat S",
+              "bn_name": "জয়পুরহাট সদর",
+              "latitude": 25.1147,
+              "longitude": 89.037
+            },
+            {
+              "name": "Kalai",
+              "bn_name": "কালাই",
+              "latitude": 25.080035,
+              "longitude": 89.199161
+            },
+            {
+              "name": "Khetlal",
+              "bn_name": "খেতলাল",
+              "latitude": 25.038009,
+              "longitude": 89.108648
+            },
+            {
+              "name": "Panchbibi",
+              "bn_name": "পাঁচবিবি",
+              "latitude": 25.209753,
+              "longitude": 89.07525
+            }
+          ]
+        },
+        {
+          "name": "Naogaon",
+          "bn_name": "নওগাঁ",
+          "latitude": 24.91316,
+          "longitude": 88.753095,
+          "upazilas": [
+            {
+              "name": "Atrai",
+              "bn_name": "আত্রাই",
+              "latitude": 24.592473,
+              "longitude": 89.037048
+            },
+            {
+              "name": "Badalgachhi",
+              "bn_name": "বদলগাছি",
+              "latitude": 24.968485,
+              "longitude": 88.910249
+            },
+            {
+              "name": "Dhamoirhat",
+              "bn_name": "ধামইরহাট",
+              "latitude": 25.150396,
+              "longitude": 88.851503
+            },
+            {
+              "name": "Manda",
+              "bn_name": "মান্দা",
+              "latitude": 24.756593,
+              "longitude": 88.7494
+            },
+            {
+              "name": "Mohadevpur",
+              "bn_name": "মহাদেবপুর",
+              "latitude": 24.919792,
+              "longitude": 88.751805
+            },
+            {
+              "name": "Naogaon Sadar",
+              "bn_name": "নওগাঁ সদর",
+              "latitude": 24.78139,
+              "longitude": 88.883883
+            },
+            {
+              "name": "Niamatpur",
+              "bn_name": "নিয়ামতপুর",
+              "latitude": 24.833623,
+              "longitude": 88.569819
+            },
+            {
+              "name": "Patnitala",
+              "bn_name": "পত্নীতলা",
+              "latitude": 25.064922,
+              "longitude": 88.730153
+            },
+            {
+              "name": "Porsha",
+              "bn_name": "পোরশা",
+              "latitude": 25.015333,
+              "longitude": 88.498499
+            },
+            {
+              "name": "Raninagar",
+              "bn_name": "রাণীনগর",
+              "latitude": 24.728486,
+              "longitude": 88.95575
+            },
+            {
+              "name": "Sapahar",
+              "bn_name": "সাপাহার",
+              "latitude": 25.134111,
+              "longitude": 88.517852
+            }
+          ]
+        },
+        {
+          "name": "Natore",
+          "bn_name": "নাটোর",
+          "latitude": 24.420556,
+          "longitude": 89.000282,
+          "upazilas": [
+            {
+              "name": "Bagatipara",
+              "bn_name": "বাগাতিপাড়া",
+              "latitude": 24.302402,
+              "longitude": 88.964126
+            },
+            {
+              "name": "Baraigram",
+              "bn_name": "বড়াইগ্রাম",
+              "latitude": 24.284137,
+              "longitude": 24.284137
+            },
+            {
+              "name": "Lalpur",
+              "bn_name": "লালপুর",
+              "latitude": 24.211746,
+              "longitude": 88.960536
+            },
+            {
+              "name": "Natore Sadar",
+              "bn_name": "নাটোর সদর",
+              "latitude": 24.402158,
+              "longitude": 88.99881
+            }
+          ]
+        },
+        {
+          "name": "Nawabganj",
+          "bn_name": "নবাবগঞ্জ",
+          "latitude": 24.596503,
+          "longitude": 88.277512,
+          "upazilas": [
+            {
+              "name": "Bholahat",
+              "bn_name": "ভোলাহাট",
+              "latitude": 24.916999,
+              "longitude": 88.187668
+            },
+            {
+              "name": "Gomastapur",
+              "bn_name": "গোমস্তাপুর",
+              "latitude": 24.871768,
+              "longitude": 88.382199
+            },
+            {
+              "name": "Nachole",
+              "bn_name": "নাচোল",
+              "latitude": 24.73266,
+              "longitude": 88.413728
+            },
+            {
+              "name": "Nawabganj Sadar",
+              "bn_name": "নবাবগঞ্জ সদর",
+              "latitude": 24.585601,
+              "longitude": 88.265584
+            },
+            {
+              "name": "Shibganj",
+              "bn_name": "শিবগঞ্জ",
+              "latitude": 24.683748,
+              "longitude": 88.157193
+            }
+          ]
+        },
+        {
+          "name": "Pabna",
+          "bn_name": "পাবনা",
+          "latitude": 23.998524,
+          "longitude": 89.233645,
+          "upazilas": [
+            {
+              "name": "Atgharia",
+              "bn_name": "আটঘরিয়া",
+              "latitude": 24.118212,
+              "longitude": 89.227703
+            },
+            {
+              "name": "Bera",
+              "bn_name": "বেড়া",
+              "latitude": 24.076563,
+              "longitude": 89.61457
+            },
+            {
+              "name": "Bhangura",
+              "bn_name": "ভাঙ্গুরা",
+              "latitude": 24.249792,
+              "longitude": 89.407997
+            },
+            {
+              "name": "Chatmohar",
+              "bn_name": "চাটমোহর",
+              "latitude": 24.21369,
+              "longitude": 89.303715
+            },
+            {
+              "name": "Faridpur",
+              "bn_name": "ফরিদপুর",
+              "latitude": 23.542392,
+              "longitude": 89.630892
+            },
+            {
+              "name": "Ishwardi",
+              "bn_name": "ঈশ্বরদী",
+              "latitude": 24.070032,
+              "longitude": 89.113417
+            },
+            {
+              "name": "Pabna Sadar",
+              "bn_name": "পাবনা সদর",
+              "latitude": 24.023264,
+              "longitude": 89.265727
+            },
+            {
+              "name": "Santhia",
+              "bn_name": "সাথিয়া",
+              "latitude": 24.071871,
+              "longitude": 89.53089
+            },
+            {
+              "name": "Sujanagar",
+              "bn_name": "সুজানগর",
+              "latitude": 23.942153,
+              "longitude": 89.421014
+            }
+          ]
+        },
+        {
+          "name": "Rajshahi",
+          "bn_name": "রাজশাহী",
+          "latitude": 24.363589,
+          "longitude": 88.624135,
+          "upazilas": [
+            {
+              "name": "Bagha",
+              "bn_name": "বাঘা",
+              "latitude": 24.210922,
+              "longitude": 88.845504
+            },
+            {
+              "name": "Bagmara",
+              "bn_name": "বাগমারা",
+              "latitude": 24.590836,
+              "longitude": 88.807089
+            },
+            {
+              "name": "Boalia",
+              "bn_name": "বোয়ালিয়া থানা",
+              "latitude": 24.369486,
+              "longitude": 88.61931
+            },
+            {
+              "name": "Charghat",
+              "bn_name": "চারঘাট",
+              "latitude": 24.278531,
+              "longitude": 88.751805
+            },
+            {
+              "name": "Durgapur",
+              "bn_name": "দুর্গাপুর",
+              "latitude": 24.447993,
+              "longitude": 88.768638
+            },
+            {
+              "name": "Godagari",
+              "bn_name": "গোদাগারি",
+              "latitude": 24.468738,
+              "longitude": 88.440388
+            },
+            {
+              "name": "Mohanpur",
+              "bn_name": "মোহনপুর",
+              "latitude": 24.544858,
+              "longitude": 88.636196
+            },
+            {
+              "name": "Motihar",
+              "bn_name": "মতিহার থানা",
+              "latitude": 24.360491,
+              "longitude": 88.628112
+            },
+            {
+              "name": "Paba",
+              "bn_name": "পবা",
+              "latitude": 24.435048,
+              "longitude": 88.643431
+            },
+            {
+              "name": "Puthia",
+              "bn_name": "পুঠিয়া",
+              "latitude": 24.401072,
+              "longitude": 88.845504
+            },
+            {
+              "name": "Rajpara",
+              "bn_name": "রাজপাড়া থানা",
+              "latitude": 24.373508,
+              "longitude": 88.572234
+            },
+            {
+              "name": "Shahmokhdum",
+              "bn_name": "শাহমখদুম থানা",
+              "latitude": 24.395245,
+              "longitude": 88.647241
+            },
+            {
+              "name": "Tanore",
+              "bn_name": "তানোর",
+              "latitude": 24.635966,
+              "longitude": 88.537196
+            }
+          ]
+        },
+        {
+          "name": "Sirajgonj",
+          "bn_name": "সিরাজগঞ্জ",
+          "latitude": 24.453398,
+          "longitude": 89.700682,
+          "upazilas": [
+            {
+              "name": "Belkuchi",
+              "bn_name": "বেলকুচি",
+              "latitude": 24.310114,
+              "longitude": 89.719213
+            },
+            {
+              "name": "Chauhali",
+              "bn_name": "চৌহালি",
+              "latitude": 24.072394,
+              "longitude": 89.756769
+            },
+            {
+              "name": "Kamarkhanda",
+              "bn_name": "কামারখান্দা",
+              "latitude": 24.393171,
+              "longitude": 89.653403
+            },
+            {
+              "name": "Kazipur",
+              "bn_name": "কাজীপুর",
+              "latitude": 24.690208,
+              "longitude": 89.681621
+            },
+            {
+              "name": "Raiganj",
+              "bn_name": "রায়গঞ্জ",
+              "latitude": 24.499779,
+              "longitude": 89.53089
+            },
+            {
+              "name": "Shahjadpur",
+              "bn_name": "শাহজাদপুর",
+              "latitude": 24.19094,
+              "longitude": 89.587482
+            },
+            {
+              "name": "Sirajganj Sadar",
+              "bn_name": "সিরাজগঞ্জ সদর",
+              "latitude": 24.50017,
+              "longitude": 89.681621
+            },
+            {
+              "name": "Tarash",
+              "bn_name": "তারাশ",
+              "latitude": 24.430891,
+              "longitude": 89.372477
+            },
+            {
+              "name": "Ullahpara",
+              "bn_name": "উল্লাপাড়া",
+              "latitude": 24.357192,
+              "longitude": 89.53089
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rangpur",
+      "bn_name": "রংপুর",
+      "latitude": 25.743892,
+      "longitude": 89.275227,
+      "districts": [
+        {
+          "name": "Dinajpur",
+          "bn_name": "দিনাজপুর",
+          "latitude": 25.621706,
+          "longitude": 88.63545,
+          "upazilas": [
+            {
+              "name": "Biral",
+              "bn_name": "বিড়াল",
+              "latitude": 25.631868,
+              "longitude": 88.537196
+            },
+            {
+              "name": "Birampur",
+              "bn_name": "বিরামপুর",
+              "latitude": 25.389946,
+              "longitude": 88.991636
+            },
+            {
+              "name": "Birganj",
+              "bn_name": "বীরগঞ্জ",
+              "latitude": 25.893448,
+              "longitude": 88.672358
+            },
+            {
+              "name": "Bochaganj",
+              "bn_name": "বোচাগঞ্জ",
+              "latitude": 25.799722,
+              "longitude": 88.462189
+            },
+            {
+              "name": "Chirirbandar",
+              "bn_name": "চিরিরবন্দর",
+              "latitude": 25.650337,
+              "longitude": 88.777052
+            },
+            {
+              "name": "Dinajpur Sadar",
+              "bn_name": "দিনাজপুর সদর",
+              "latitude": 25.585624,
+              "longitude": 88.653075
+            },
+            {
+              "name": "Ghoraghat",
+              "bn_name": "ঘোড়াঘাট",
+              "latitude": 25.30525,
+              "longitude": 89.189643
+            },
+            {
+              "name": "Hakimpur",
+              "bn_name": "হাকিমপুর",
+              "latitude": 25.292669,
+              "longitude": 89.065703
+            },
+            {
+              "name": "Kaharole",
+              "bn_name": "কাহারোল",
+              "latitude": 25.821574,
+              "longitude": 88.575857
+            },
+            {
+              "name": "Khansama",
+              "bn_name": "খানসামা",
+              "latitude": 25.87064,
+              "longitude": 88.768638
+            },
+            {
+              "name": "Nawabganj",
+              "bn_name": "নবাবগঞ্জ",
+              "latitude": 24.741311,
+              "longitude": 88.291207
+            },
+            {
+              "name": "Parbatipur",
+              "bn_name": "পার্বতীপুর",
+              "latitude": 25.65439,
+              "longitude": 88.916239
+            },
+            {
+              "name": "Phulbari",
+              "bn_name": "ফুলবাড়ি",
+              "latitude": 25.445444,
+              "longitude": 88.883883
+            }
+          ]
+        },
+        {
+          "name": "Gaibandha",
+          "bn_name": "গাইবান্ধা",
+          "latitude": 25.328751,
+          "longitude": 89.528088,
+          "upazilas": [
+            {
+              "name": "Fulchhari",
+              "bn_name": "ফুলছড়ি",
+              "latitude": 25.259624,
+              "longitude": 89.643992
+            },
+            {
+              "name": "Gaibandha sadar",
+              "bn_name": "গাইবান্ধা সদর",
+              "latitude": 25.354243,
+              "longitude": 89.568627
+            },
+            {
+              "name": "Gobindaganj",
+              "bn_name": "গোবিন্দগঞ্জ",
+              "latitude": 25.140418,
+              "longitude": 89.436391
+            },
+            {
+              "name": "Palashbari",
+              "bn_name": "পলাশবাড়ী",
+              "latitude": 25.270647,
+              "longitude": 89.389057
+            },
+            {
+              "name": "Sadullapur",
+              "bn_name": "সাদুল্যাপুর",
+              "latitude": 25.390939,
+              "longitude": 89.465946
+            },
+            {
+              "name": "Saghata",
+              "bn_name": "সাঘাটা",
+              "latitude": 25.123111,
+              "longitude": 89.582769
+            },
+            {
+              "name": "Sundarganj",
+              "bn_name": "সুন্দরগঞ্জ",
+              "latitude": 25.564362,
+              "longitude": 89.51909
+            }
+          ]
+        },
+        {
+          "name": "Kurigram",
+          "bn_name": "কুড়িগ্রাম",
+          "latitude": 25.805445,
+          "longitude": 89.636174,
+          "upazilas": [
+            {
+              "name": "Bhurungamari",
+              "bn_name": "ভুরুঙ্গামারি",
+              "latitude": 26.111958,
+              "longitude": 89.681621
+            },
+            {
+              "name": "Char Rajibpur",
+              "bn_name": "চর রাজিবপুর",
+              "latitude": 25.461324,
+              "longitude": 89.766153
+            },
+            {
+              "name": "Chilmari",
+              "bn_name": "চিলমারি",
+              "latitude": 25.581041,
+              "longitude": 89.661635
+            },
+            {
+              "name": "Kurigram Sadar",
+              "bn_name": "কুড়িগ্রাম সদর",
+              "latitude": 25.810346,
+              "longitude": 89.648698
+            },
+            {
+              "name": "Nageshwari",
+              "bn_name": "নাগেশ্বরী",
+              "latitude": 25.970247,
+              "longitude": 89.756769
+            },
+            {
+              "name": "Phulbari",
+              "bn_name": "ফুলবাড়ি",
+              "latitude": 25.445444,
+              "longitude": 88.883883
+            },
+            {
+              "name": "Rajarhat",
+              "bn_name": "রাজারহাট",
+              "latitude": 25.780435,
+              "longitude": 89.53089
+            },
+            {
+              "name": "Rowmari",
+              "bn_name": "রউমারি",
+              "latitude": 25.591696,
+              "longitude": 89.831773
+            },
+            {
+              "name": "Ulipur",
+              "bn_name": "উলিপুর",
+              "latitude": 25.65642,
+              "longitude": 89.620456
+            }
+          ]
+        },
+        {
+          "name": "Lalmonirhat",
+          "bn_name": "লালমনিরহাট",
+          "latitude": 25.99234,
+          "longitude": 89.284725,
+          "upazilas": [
+            {
+              "name": "Aditmari",
+              "bn_name": "আদিতমারি",
+              "latitude": 25.921826,
+              "longitude": 89.379583
+            },
+            {
+              "name": "Hatibandha",
+              "bn_name": "হাতিবান্ধা",
+              "latitude": 26.142222,
+              "longitude": 89.13487
+            },
+            {
+              "name": "Kaliganj",
+              "bn_name": "কালীগঞ্জ",
+              "latitude": 25.968598,
+              "longitude": 89.265727
+            },
+            {
+              "name": "Lalmanirhat Sadar",
+              "bn_name": "লালমনিরহাট সদর",
+              "latitude": 25.874819,
+              "longitude": 89.455309
+            },
+            {
+              "name": "Patgram",
+              "bn_name": "পাটগ্রাম",
+              "latitude": 26.356951,
+              "longitude": 89.008373
+            }
+          ]
+        },
+        {
+          "name": "Nilphamari",
+          "bn_name": "নীলফামারী",
+          "latitude": 25.931794,
+          "longitude": 88.856006,
+          "upazilas": [
+            {
+              "name": "Dimla",
+              "bn_name": "ডিমলা",
+              "latitude": 26.17961,
+              "longitude": 88.979678
+            },
+            {
+              "name": "Domar",
+              "bn_name": "ডোমার",
+              "latitude": 26.154662,
+              "longitude": 88.807089
+            },
+            {
+              "name": "Jaldhaka",
+              "bn_name": "জলঢাকা",
+              "latitude": 26.019664,
+              "longitude": 89.016591
+            },
+            {
+              "name": "Kishoreganj",
+              "bn_name": "কিশোরগঞ্জ",
+              "latitude": 25.920213,
+              "longitude": 89.07525
+            },
+            {
+              "name": "Nilphamari Sadar",
+              "bn_name": "নীলফামারী সদর",
+              "latitude": 25.989363,
+              "longitude": 88.826301
+            },
+            {
+              "name": "Saidpur",
+              "bn_name": "সৈয়দপুর",
+              "latitude": 25.782954,
+              "longitude": 88.898267
+            }
+          ]
+        },
+        {
+          "name": "Panchagarh",
+          "bn_name": "পঞ্চগড়",
+          "latitude": 26.3411,
+          "longitude": 88.554161,
+          "upazilas": [
+            {
+              "name": "Atwari",
+              "bn_name": "আটোয়ারি",
+              "latitude": 26.245454,
+              "longitude": 88.421001
+            },
+            {
+              "name": "Boda",
+              "bn_name": "বোদা",
+              "latitude": 26.24744,
+              "longitude": 88.614484
+            },
+            {
+              "name": "Debiganj",
+              "bn_name": "দেবীগঞ্জ",
+              "latitude": 26.106746,
+              "longitude": 88.730153
+            },
+            {
+              "name": "Panchagarh Sadar",
+              "bn_name": "পঞ্চগড় সদর",
+              "latitude": 26.38911,
+              "longitude": 88.614484
+            },
+            {
+              "name": "Tetulia",
+              "bn_name": "তেতুলিয়া",
+              "latitude": 26.517007,
+              "longitude": 88.430695
+            }
+          ]
+        },
+        {
+          "name": "Rangpur",
+          "bn_name": "রংপুর",
+          "latitude": 25.75581,
+          "longitude": 89.244462,
+          "upazilas": [
+            {
+              "name": "Badarganj",
+              "bn_name": "বদরগঞ্জ",
+              "latitude": 25.653968,
+              "longitude": 89.070477
+            },
+            {
+              "name": "Gangachara",
+              "bn_name": "গঙ্গাচরা",
+              "latitude": 25.873792,
+              "longitude": 89.227703
+            },
+            {
+              "name": "Kaunia",
+              "bn_name": "কাউনিয়া",
+              "latitude": 25.774166,
+              "longitude": 89.43166
+            },
+            {
+              "name": "Mithapukur",
+              "bn_name": "মিঠাপুকুর",
+              "latitude": 25.613733,
+              "longitude": 89.284725
+            },
+            {
+              "name": "Pirgachha",
+              "bn_name": "পীরগাছা",
+              "latitude": 25.685349,
+              "longitude": 89.417464
+            },
+            {
+              "name": "Pirganj",
+              "bn_name": "পীরগঞ্জ",
+              "latitude": 25.436218,
+              "longitude": 89.313206
+            },
+            {
+              "name": "Rangpur Sadar",
+              "bn_name": "রংপুর সদর",
+              "latitude": 25.731814,
+              "longitude": 89.227703
+            },
+            {
+              "name": "Taraganj",
+              "bn_name": "তারাগঞ্জ",
+              "latitude": 25.778018,
+              "longitude": 89.037048
+            }
+          ]
+        },
+        {
+          "name": "Thakurgaon",
+          "bn_name": "ঠাকুরগাঁও",
+          "latitude": 26.033694,
+          "longitude": 88.461683,
+          "upazilas": [
+            {
+              "name": "Baliadangi",
+              "bn_name": "বালিয়াডাঙ্গি",
+              "latitude": 26.090234,
+              "longitude": 88.275314
+            },
+            {
+              "name": "Haripur",
+              "bn_name": "হরিপুর",
+              "latitude": 25.86409,
+              "longitude": 88.148657
+            },
+            {
+              "name": "Pirganj",
+              "bn_name": "পীরগঞ্জ",
+              "latitude": 25.819123,
+              "longitude": 88.343362
+            },
+            {
+              "name": "Ranisankail",
+              "bn_name": "রাণীসংকইল",
+              "latitude": 25.892046,
+              "longitude": 88.258286
+            },
+            {
+              "name": "Thakurgaon Sadar",
+              "bn_name": "ঠাকুরগাঁও সদর",
+              "latitude": 26.080287,
+              "longitude": 88.440388
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sylhet",
+      "bn_name": "সিলেট",
+      "latitude": 24.894929,
+      "longitude": 91.868706,
+      "districts": [
+        {
+          "name": "Habiganj",
+          "bn_name": "হবিগঞ্জ",
+          "latitude": 24.374945,
+          "longitude": 91.41553,
+          "upazilas": [
+            {
+              "name": "Ajmiriganj",
+              "bn_name": "আজমিরিগঞ্জ",
+              "latitude": 24.548922,
+              "longitude": 91.236171
+            },
+            {
+              "name": "Bahubal",
+              "bn_name": "বাহুবল",
+              "latitude": 24.341248,
+              "longitude": 91.537811
+            },
+            {
+              "name": "Baniachang",
+              "bn_name": "বানিয়াচং",
+              "latitude": 24.506322,
+              "longitude": 91.356569
+            },
+            {
+              "name": "Chunarughat",
+              "bn_name": "চুনারুঘাট",
+              "latitude": 24.184329,
+              "longitude": 91.482148
+            },
+            {
+              "name": "Habiganj Sadar",
+              "bn_name": "হবিগঞ্জ সদর",
+              "latitude": 24.351263,
+              "longitude": 91.424143
+            },
+            {
+              "name": "Lakhai",
+              "bn_name": "লাক্ষাই",
+              "latitude": 24.305092,
+              "longitude": 91.269847
+            },
+            {
+              "name": "Madhabpur",
+              "bn_name": "মাধবপুর",
+              "latitude": 24.099822,
+              "longitude": 91.296327
+            },
+            {
+              "name": "Nabiganj",
+              "bn_name": "নবীগঞ্জ",
+              "latitude": 24.567188,
+              "longitude": 91.513601
+            },
+            {
+              "name": "Shaistagonj",
+              "bn_name": "শায়েস্তাগঞ্জ",
+              "latitude": 24.276697,
+              "longitude": 91.455553
+            }
+          ]
+        },
+        {
+          "name": "Maulvibazar",
+          "bn_name": "মৌলভীবাজার",
+          "latitude": 24.482934,
+          "longitude": 91.777417,
+          "upazilas": [
+            {
+              "name": "Barlekha",
+              "bn_name": "বড়লেখা",
+              "latitude": 24.721927,
+              "longitude": 92.203993
+            },
+            {
+              "name": "Juri",
+              "bn_name": "জুড়ি",
+              "latitude": 24.58006,
+              "longitude": 92.164672
+            },
+            {
+              "name": "Kamalganj",
+              "bn_name": "কামালগঞ্জ",
+              "latitude": 24.275148,
+              "longitude": 91.870861
+            },
+            {
+              "name": "Kulaura",
+              "bn_name": "কুলাউরা",
+              "latitude": 24.525464,
+              "longitude": 92.034666
+            },
+            {
+              "name": "Moulvibazar Sadar",
+              "bn_name": "মৌলভীবাজার",
+              "latitude": 24.467064,
+              "longitude": 91.714958
+            },
+            {
+              "name": "Rajnagar",
+              "bn_name": "রাজনগর",
+              "latitude": 24.560229,
+              "longitude": 91.870861
+            },
+            {
+              "name": "Sreemangal",
+              "bn_name": "শ্রীমঙ্গল",
+              "latitude": 24.30096,
+              "longitude": 91.695509
+            }
+          ]
+        },
+        {
+          "name": "Sunamganj",
+          "bn_name": "সুনামগঞ্জ",
+          "latitude": 25.065804,
+          "longitude": 91.395011,
+          "upazilas": [
+            {
+              "name": "Bishwamvarpur",
+              "bn_name": "বিসশম্ভারপুর",
+              "latitude": 25.098757,
+              "longitude": 91.299939
+            },
+            {
+              "name": "Chhatak",
+              "bn_name": "ছাতক",
+              "latitude": 25.038747,
+              "longitude": 91.669996
+            },
+            {
+              "name": "Derai",
+              "bn_name": "দেড়াই",
+              "latitude": 24.755233,
+              "longitude": 91.404825
+            },
+            {
+              "name": "Dharampasha",
+              "bn_name": "ধরমপাশা",
+              "latitude": 24.899324,
+              "longitude": 91.011951
+            },
+            {
+              "name": "Dowarabazar",
+              "bn_name": "দোয়ারাবাজার",
+              "latitude": 25.109403,
+              "longitude": 91.578999
+            },
+            {
+              "name": "Jagannathpur",
+              "bn_name": "জগন্নাথপুর",
+              "latitude": 24.75371,
+              "longitude": 91.559612
+            },
+            {
+              "name": "Jamalganj",
+              "bn_name": "জামালগঞ্জ",
+              "latitude": 24.970664,
+              "longitude": 91.192911
+            },
+            {
+              "name": "Shanthiganj",
+              "bn_name": "শান্তিগঞ্জ",
+              "latitude": 24.9917,
+              "longitude": 91.3417
+            },
+            {
+              "name": "Sulla",
+              "bn_name": "সুল্লা",
+              "latitude": 24.670423,
+              "longitude": 91.262629
+            },
+            {
+              "name": "Sunamganj Sadar",
+              "bn_name": "সুনামগঞ্জ সদর",
+              "latitude": 25.016453,
+              "longitude": 91.385516
+            },
+            {
+              "name": "Tahirpur",
+              "bn_name": "তাহিরপুর",
+              "latitude": 25.099049,
+              "longitude": 91.1755
+            }
+          ]
+        },
+        {
+          "name": "Sylhet",
+          "bn_name": "সিলেট",
+          "latitude": 24.889796,
+          "longitude": 91.869789,
+          "upazilas": [
+            {
+              "name": "Airport",
+              "bn_name": "বিমান বন্দর",
+              "latitude": 24.957995,
+              "longitude": 91.870946
+            },
+            {
+              "name": "Balaganj",
+              "bn_name": "বালাগঞ্জ",
+              "latitude": 24.680128,
+              "longitude": 91.773357
+            },
+            {
+              "name": "Beanibazar",
+              "bn_name": "বেয়ানিবাজার",
+              "latitude": 24.821961,
+              "longitude": 92.158531
+            },
+            {
+              "name": "Bishwanath",
+              "bn_name": "বিশ্বনাথ",
+              "latitude": 24.823004,
+              "longitude": 91.734416
+            },
+            {
+              "name": "Companiganj",
+              "bn_name": "কোম্পানিগঞ্জ",
+              "latitude": 25.088167,
+              "longitude": 91.755099
+            },
+            {
+              "name": "Dakshin Surma",
+              "bn_name": "দক্ষিণ সুরমা",
+              "latitude": 24.821123,
+              "longitude": 91.890388
+            },
+            {
+              "name": "Fenchuganj",
+              "bn_name": "ফেঞ্চুগঞ্জ",
+              "latitude": 24.68945,
+              "longitude": 91.978367
+            },
+            {
+              "name": "Golapganj",
+              "bn_name": "গোলাপগঞ্জ",
+              "latitude": 24.858063,
+              "longitude": 92.015076
+            },
+            {
+              "name": "Gowainghat",
+              "bn_name": "গোয়াইনঘাট",
+              "latitude": 25.104767,
+              "longitude": 91.968583
+            },
+            {
+              "name": "Hazrat Shah Paran",
+              "bn_name": "হযরত শাহপরান থানা",
+              "latitude": 24.905079,
+              "longitude": 91.935578
+            },
+            {
+              "name": "Jaintiapur",
+              "bn_name": "জয়ন্তপুর",
+              "latitude": 25.133783,
+              "longitude": 92.121704
+            },
+            {
+              "name": "Jalalabad",
+              "bn_name": "জালালাবাদ থানা",
+              "latitude": 24.894929,
+              "longitude": 91.868706
+            },
+            {
+              "name": "Kanaighat",
+              "bn_name": "কানাইঘাট",
+              "latitude": 25.00882,
+              "longitude": 92.255654
+            },
+            {
+              "name": "Kowtali",
+              "bn_name": "কোতোয়ালী থানা",
+              "latitude": 24.888916,
+              "longitude": 91.865371
+            },
+            {
+              "name": "Moglabazar",
+              "bn_name": "মোগলাবাজার থানা",
+              "latitude": 24.852134,
+              "longitude": 91.890839
+            },
+            {
+              "name": "Nobigonj",
+              "bn_name": "নবীগঞ্জ",
+              "latitude": 24.567188,
+              "longitude": 91.513601
+            },
+            {
+              "name": "Osmani Nagar",
+              "bn_name": "ওসমানীনগর",
+              "latitude": 24.719019,
+              "longitude": 91.746581
+            },
+            {
+              "name": "South Surma",
+              "bn_name": "দক্ষিণ সুরমা থানা",
+              "latitude": 24.821123,
+              "longitude": 91.890388
+            },
+            {
+              "name": "Sylhet Sadar",
+              "bn_name": "সিলেট সদর",
+              "latitude": 24.964447,
+              "longitude": 91.812332
+            },
+            {
+              "name": "Zakiganj",
+              "bn_name": "জাকিগঞ্জ",
+              "latitude": 24.878121,
+              "longitude": 92.367789
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
